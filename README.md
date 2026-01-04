@@ -2,6 +2,28 @@
 
 NextBracket is an open-source tool that collects tournament listings from start.gg and produces subscribe-ready calendar feeds so players can keep track of upcoming competitive events in their area.
 
+## 🗓️ Quick Subscribe
+
+**Subscribe to live tournament calendars in seconds!**
+
+### Example: SLO Melee Tournaments
+
+**This is an example calendar feed.** You can create your own custom calendar feeds by configuring different locations, games, and organizers.
+
+**Current Focus:** Super Smash Bros. Melee tournaments within 50km of San Luis Obispo
+
+**Subscribe in any calendar app:**
+
+```
+webcal://raw.githubusercontent.com/macdude95/NextBracket/main/calendars/feeds/slo-melee.ics
+```
+
+**Works with:** Google Calendar, Apple Calendar, Outlook, and most other calendar applications.
+
+**✨ Features:** Automatic daily updates • Tournament details • Direct start.gg links • Always current
+
+---
+
 ## Features
 
 - **Automated Tournament Tracking**: Fetches tournament data from start.gg API
@@ -37,31 +59,32 @@ Each calendar feed is available at its own URL. Currently available calendars:
 Create config files in `calendars/configs/{calendar-name}.yaml` (YAML) or `calendars/configs/{calendar-name}.json` (JSON):
 
 ```yaml
-# Geographic filtering - tournaments within radius of center point
-location:
-  center:
-    latitude: 35.2828 # center point latitude
-    longitude: -120.6596 # center point longitude
-  radius: 150 # kilometers from center point
-
 # Games to filter by - only tournaments including these games
 games:
   - id: 1 # Super Smash Bros. Melee
 
+# Geographic filtering - tournaments within radius of center point
+location:
+  center:
+    latitude: 35.2828 # San Luis Obispo latitude
+    longitude: -120.6596 # San Luis Obispo longitude
+  radius: 50 # kilometers from center point
+
 # Tournament admins - tournaments from these organizers included regardless of filters (UNION logic)
 admins:
-  - 'admin_id' # Admin Name
+  - '40c0c705' # Bust
+  - '18c410b7' # Bozion
 
 # Filtering options
 filters:
-  date_range_days: 90 # look ahead this many days
+  date_range_days: 180 # look ahead this many days
   max_events: 50 # maximum tournaments to fetch
   include_past_days: 7 # include tournaments from this many days ago
 
 # Calendar display settings
 calendar:
-  title: 'Calendar Title'
-  description: 'Calendar Description'
+  title: 'SLO Melee Tournaments'
+  description: 'Upcoming Super Smash Bros. Melee tournaments in the San Luis Obispo area'
 ```
 
 **Admin Behavior**: Admins use UNION logic - tournaments from specified admins are **added** to the calendar regardless of location/game filters. This ensures you never miss tournaments from your favorite organizers.
