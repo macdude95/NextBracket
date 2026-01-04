@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NextBracket//Tournament Calendar//EN
+DESCRIPTION:Upcoming Super Smash Bros. Melee tournaments in the San Luis O
+ bispo area
+NAME:SLO Melee Tournaments
+BEGIN:VEVENT
+SUMMARY:Busted Controllers #9 (Super Smash Bros. Melee)
+DTSTART:20260103T220000Z
+DTEND:20260104T075900Z
+UID:tournament-865794@nextbracket
+DESCRIPTION:Attendees: 7\nEvents: Melee Singles\nRegistration Closed\nView
+  on start.gg: https://start.gg/tournament/busted-controllers-9
+LOCATION:437 Kentucky St\, San Luis Obispo\, CA 93405\, USA\, San Luis Obi
+ spo\, 1\, US
+URL:https://start.gg/tournament/busted-controllers-9
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Busted Controllers ONLINE #4 - "Comcast won't provide my address w
+ ith fiber" (Super Smash Bros. Melee)
+DTSTART:20260103T030000Z
+DTEND:20260103T075900Z
+UID:tournament-865793@nextbracket
+DESCRIPTION:Attendees: 11\nEvents: Melee Singles\nRegistration Closed\nVie
+ w on start.gg: https://start.gg/tournament/busted-controllers-online-4-com
+ cast-won-t-provide-my-address-with-fiber
+LOCATION:San Luis Obispo\, 1\, US
+URL:https://start.gg/tournament/busted-controllers-online-4-comcast-won-t-
+ provide-my-address-with-fiber
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LRA Start #26 @ BA Start Arcade and Taproom (Super Smash Bros. Mel
+ ee\, Super Smash Bros. Ultimate)
+DTSTART:20251227T223000Z
+DTEND:20251228T040000Z
+UID:tournament-863576@nextbracket
+DESCRIPTION:Attendees: 14\nEvents: Melee Singles\, Ultimate Singles\nRegis
+ tration Closed\nView on start.gg: https://start.gg/tournament/lra-start-26
+ -ba-start-arcade-and-taproom
+LOCATION:647 Higuera St\, San Luis Obispo\, CA 93401\, USA\, San Luis Obis
+ po\, 3\, US
+URL:https://start.gg/tournament/lra-start-26-ba-start-arcade-and-taproom
+END:VEVENT
+END:VCALENDAR

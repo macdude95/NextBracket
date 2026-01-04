@@ -1,0 +1,28 @@
+# SLO Melee Tournament Calendar Configuration
+
+# Geographic filtering - tournaments within radius of center point
+location:
+  center:
+    latitude: 35.2828 # San Luis Obispo latitude
+    longitude: -120.6596 # San Luis Obispo longitude
+  radius: 50 # kilometers from center point
+
+# Games to filter by - only tournaments including these games
+games:
+  - id: 1 # Super Smash Bros. Melee
+
+# Tournament admins - tournaments from these organizers included regardless of filters (UNION logic)
+admins:
+  - '40c0c705' # Bust
+  - '18c410b7' # Bozion
+
+# Filtering options
+filters:
+  date_range_days: 180 # look ahead this many days
+  max_events: 50 # maximum tournaments to fetch
+  include_past_days: 7 # include tournaments from this many days ago
+
+# Calendar display settings
+calendar:
+  title: 'SLO Melee Tournaments'
+  description: 'Upcoming Super Smash Bros. Melee tournaments in the San Luis Obispo area'
