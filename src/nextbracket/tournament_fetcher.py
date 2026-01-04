@@ -167,7 +167,8 @@ class TournamentFetcher:
                     after_date=after_date,
                     before_date=before_date,
                     per_page=100,
-                    # No location/game filters for admin tournaments
+                    videogame_ids=None,  # Don't filter by games for admin tournaments
+                    # No location filters for admin tournaments
                 )
                 print(
                     f"Found {len(admin_tournaments)} tournaments from admin {admin_id}"
