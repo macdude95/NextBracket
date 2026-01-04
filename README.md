@@ -75,6 +75,10 @@ owners:
   - '2821656' # Busted Controllers organizer
   - '15246' # Bozion/Emerey Philippsen organizer
 
+# Tournament admins - users who have admin roles on tournaments included regardless of filters (UNION logic)
+admins:
+  # - 'user_id' # Example admin user ID
+
 # Date range - ± years from today (past & future)
 date_range_years: 1
 
