@@ -91,18 +91,6 @@ class TournamentFetcher:
 
         return owner_ids
 
-    def _get_admin_ids(self) -> List[str]:
-        """Extract admin IDs from config (users who have admin roles on tournaments)."""
-        admin_ids = []
-
-        for admin in self.config.get("admins", []):
-            if isinstance(admin, dict) and "id" in admin:
-                admin_ids.append(admin["id"])
-            elif isinstance(admin, str):
-                admin_ids.append(admin)
-
-        return admin_ids
-
     def _get_location_params(self) -> Dict:
         """Extract location parameters from config."""
         location = self.config.get("location", {})
@@ -127,7 +115,6 @@ class TournamentFetcher:
         """Fetch tournaments based on configuration using UNION logic."""
         videogame_ids = self._get_videogame_ids()
         owner_ids = self._get_owner_ids()
-        admin_ids = self._get_admin_ids()
         location_params = self._get_location_params()
         filters = self.config.get("filters", {})
 
@@ -198,21 +185,7 @@ class TournamentFetcher:
                 )
                 all_tournaments.extend(owner_tournaments)
 
-        # Step 3: Additionally fetch tournaments from specified admins (UNION)
-        # TODO: Implement admin search - this requires finding tournaments where users have admin roles
-        # The API has admins(roles: [String]) field per tournament, but no reverse lookup
-        if admin_ids:
-            print(
-                f"\nAdditionally fetching tournaments from {len(admin_ids)} admins: {admin_ids}"
-            )
-            print(
-                "Note: Admin search not yet implemented - requires finding tournaments where users have admin roles"
-            )
-            # For now, skip admin processing until API approach is determined
-            # admin_tournaments = self._fetch_tournaments_by_admins(admin_ids, after_date, before_date)
-            # all_tournaments.extend(admin_tournaments)
-
-        # Remove duplicates (in case owner/admin tournaments also match main criteria)
+        # Remove duplicates (in case owner tournaments also match main criteria)
         seen_ids = set()
         unique_tournaments = []
         for tournament in all_tournaments:
