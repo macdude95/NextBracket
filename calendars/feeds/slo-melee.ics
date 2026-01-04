@@ -5,30 +5,6 @@ DESCRIPTION:Upcoming Super Smash Bros. Melee tournaments in the San Luis O
  bispo area
 NAME:SLO Melee Tournaments
 BEGIN:VEVENT
-SUMMARY:Busted Controllers #9 (Super Smash Bros. Melee)
-DTSTART:20260103T220000Z
-DTEND:20260104T075900Z
-UID:tournament-865794@nextbracket
-DESCRIPTION:Attendees: 7\nEvents: Melee Singles\nRegistration Closed\nView
-  on start.gg: https://start.gg/tournament/busted-controllers-9
-LOCATION:437 Kentucky St\, San Luis Obispo\, CA 93405\, USA\, San Luis Obi
- spo\, 1\, US
-URL:https://start.gg/tournament/busted-controllers-9
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Busted Controllers ONLINE #4 - "Comcast won't provide my address w
- ith fiber" (Super Smash Bros. Melee)
-DTSTART:20260103T030000Z
-DTEND:20260103T075900Z
-UID:tournament-865793@nextbracket
-DESCRIPTION:Attendees: 11\nEvents: Melee Singles\nRegistration Closed\nVie
- w on start.gg: https://start.gg/tournament/busted-controllers-online-4-com
- cast-won-t-provide-my-address-with-fiber
-LOCATION:San Luis Obispo\, 3\, US
-URL:https://start.gg/tournament/busted-controllers-online-4-comcast-won-t-
- provide-my-address-with-fiber
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:LRA Start #26 @ BA Start Arcade and Taproom (Super Smash Bros. Mel
  ee\, Super Smash Bros. Ultimate)
 DTSTART:20251227T223000Z
@@ -40,67 +16,6 @@ DESCRIPTION:Attendees: 14\nEvents: Melee Singles\, Ultimate Singles\nRegis
 LOCATION:647 Higuera St\, San Luis Obispo\, CA 93401\, USA\, San Luis Obis
  po\, 3\, US
 URL:https://start.gg/tournament/lra-start-26-ba-start-arcade-and-taproom
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Busted Controllers ONLINE #3 - "There's an outage in your area" (S
- uper Smash Bros. Melee)
-DTSTART:20251227T030000Z
-DTEND:20251227T075900Z
-UID:tournament-863350@nextbracket
-DESCRIPTION:Attendees: 7\nEvents: Melee Singles\nRegistration Closed\nView
-  on start.gg: https://start.gg/tournament/busted-controllers-online-3-ther
- e-s-an-outage-in-your-area
-LOCATION:San Luis Obispo\, 3\, US
-URL:https://start.gg/tournament/busted-controllers-online-3-there-s-an-out
- age-in-your-area
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Busted Controllers #8 (Super Smash Bros. Melee)
-DTSTART:20251220T220000Z
-DTEND:20251221T075900Z
-UID:tournament-860512@nextbracket
-DESCRIPTION:Attendees: 17\nEvents: Melee Singles\nRegistration Closed\nVie
- w on start.gg: https://start.gg/tournament/busted-controllers-8
-LOCATION:437 Kentucky St\, San Luis Obispo\, CA 93405\, USA\, San Luis Obi
- spo\, 3\, US
-URL:https://start.gg/tournament/busted-controllers-8
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Busted Controllers ONLINE #2 - "I'm using starbucks wifi" (Super S
- mash Bros. Melee)
-DTSTART:20251220T030000Z
-DTEND:20251220T075900Z
-UID:tournament-861433@nextbracket
-DESCRIPTION:Attendees: 12\nEvents: Melee Singles\nRegistration Closed\nVie
- w on start.gg: https://start.gg/tournament/busted-controllers-online-2-i-m
- -using-starbucks-wifi
-LOCATION:San Luis Obispo\, 3\, US
-URL:https://start.gg/tournament/busted-controllers-online-2-i-m-using-star
- bucks-wifi
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Busted Controllers ONLINE - Stop spamming laser! (Super Smash Bros
- . Melee)
-DTSTART:20251213T023000Z
-DTEND:20251213T075900Z
-UID:tournament-860540@nextbracket
-DESCRIPTION:Attendees: 7\nEvents: Melee Singles\nRegistration Closed\nView
-  on start.gg: https://start.gg/tournament/busted-controllers-online-stop-s
- pamming-laser
-LOCATION:San Luis Obispo\, 3\, US
-URL:https://start.gg/tournament/busted-controllers-online-stop-spamming-la
- ser
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Busted Controllers #7 (Super Smash Bros. Melee)
-DTSTART:20251206T220000Z
-DTEND:20251207T060000Z
-UID:tournament-858880@nextbracket
-DESCRIPTION:Attendees: 7\nEvents: Melee Singles\nRegistration Closed\nView
-  on start.gg: https://start.gg/tournament/busted-controllers-7
-LOCATION:437 Kentucky St\, San Luis Obispo\, CA 93405\, USA\, San Luis Obi
- spo\, 3\, US
-URL:https://start.gg/tournament/busted-controllers-7
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LRA Start #25 @ BA Start Arcade and Taproom (Super Smash Bros. Mel
@@ -116,98 +31,6 @@ LOCATION:647 Higuera St\, San Luis Obispo\, CA 93401\, USA\, San Luis Obis
 URL:https://start.gg/tournament/lra-start-25-ba-start-arcade-and-taproom
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SloBroke REBORN! #88 (Rivals of Aether II\, Super Smash Bros. Mele
- e\, Super Smash Bros. Ultimate)
-DTSTART:20251123T000000Z
-DTEND:20251123T060000Z
-UID:tournament-854486@nextbracket
-DESCRIPTION:Attendees: 16\nEvents: Ultimate Singles\, Melee Singles\, Riva
- ls of Aether 2\nRegistration Closed\nView on start.gg: https://start.gg/to
- urnament/slobroke-reborn-88
-LOCATION:Engineering IV\, San Luis Obispo\, CA 93407\, USA\, San Luis Obis
- po\, 3\, US
-URL:https://start.gg/tournament/slobroke-reborn-88
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:UPS 12: Tariff Exempt (Guilty Gear: Strive\, Rivals of Aether II\,
-  Super Smash Bros. Melee\, Super Smash Bros. Ultimate)
-DTSTART:20251115T200000Z
-DTEND:20251116T060000Z
-UID:tournament-841216@nextbracket
-DESCRIPTION:Attendees: 63\nEvents: Ultimate RanDubs\, Ultimate Singles\, R
- ivals II Singles\, Melee Singles\, Guilty Gear Strive\nRegistration Closed
- \nView on start.gg: https://start.gg/tournament/ups-12-tariff-exempt
-LOCATION:Baker Science\, San Luis Obispo\, CA 93407\, USA\, San Luis Obisp
- o\, 3\, US
-URL:https://start.gg/tournament/ups-12-tariff-exempt
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SloBroke REBORN! #87 - UPS 12 Pre-Local! (Super Smash Bros. Melee\
- , Super Smash Bros. Ultimate)
-DTSTART:20251115T013000Z
-DTEND:20251115T060000Z
-UID:tournament-849303@nextbracket
-DESCRIPTION:Attendees: 24\nEvents: Ultimate Singles\, Melee Singles\nRegis
- tration Closed\nView on start.gg: https://start.gg/tournament/slobroke-reb
- orn-87-ups-12-pre-local
-LOCATION:Engineering IV\, San Luis Obispo\, CA 93407\, USA\, San Luis Obis
- po\, 3\, US
-URL:https://start.gg/tournament/slobroke-reborn-87-ups-12-pre-local
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SloBroke REBORN! #86 (Rivals of Aether II\, Super Smash Bros. Mele
- e\, Super Smash Bros. Ultimate)
-DTSTART:20251108T220000Z
-DTEND:20251109T060000Z
-UID:tournament-847451@nextbracket
-DESCRIPTION:Attendees: 30\nEvents: Rivals of Aether 2\, Ultimate Singles\,
-  Melee Singles\nRegistration Closed\nView on start.gg: https://start.gg/to
- urnament/slobroke-reborn-86
-LOCATION:Baker Science\, San Luis Obispo\, CA 93407\, USA\, San Luis Obisp
- o\, 3\, US
-URL:https://start.gg/tournament/slobroke-reborn-86
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SloBroke REBORN! #85 (Super Smash Bros. Melee\, Super Smash Bros. 
- Ultimate)
-DTSTART:20251105T023000Z
-DTEND:20251105T060000Z
-UID:tournament-846794@nextbracket
-DESCRIPTION:Attendees: 18\nEvents: Ultimate Singles\, Melee Singles\nRegis
- tration Closed\nView on start.gg: https://start.gg/tournament/slobroke-reb
- orn-85
-LOCATION:Engineering IV\, San Luis Obispo\, CA 93407\, USA\, San Luis Obis
- po\, 3\, US
-URL:https://start.gg/tournament/slobroke-reborn-85
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SloBroke REBORN! #84 (Rivals of Aether II\, Super Smash Bros. Mele
- e\, Super Smash Bros. Ultimate)
-DTSTART:20251101T210000Z
-DTEND:20251102T050000Z
-UID:tournament-844929@nextbracket
-DESCRIPTION:Attendees: 20\nEvents: Rivals of Aether 2\, Ultimate Singles\,
-  Melee Singles\nRegistration Closed\nView on start.gg: https://start.gg/to
- urnament/slobroke-reborn-84
-LOCATION:Engineering IV\, San Luis Obispo\, CA 93407\, USA\, San Luis Obis
- po\, 3\, US
-URL:https://start.gg/tournament/slobroke-reborn-84
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Busted Controllers #6 - Spooky Special Edition (Super Smash Bros. 
- Melee)
-DTSTART:20251101T030000Z
-DTEND:20251101T095900Z
-UID:tournament-842628@nextbracket
-DESCRIPTION:Attendees: 9\nEvents: Melee Singles\nRegistration Closed\nView
-  on start.gg: https://start.gg/tournament/busted-controllers-6-spooky-spec
- ial-edition
-LOCATION:437 Kentucky St\, San Luis Obispo\, CA 93405\, USA\, San Luis Obi
- spo\, 3\, US
-URL:https://start.gg/tournament/busted-controllers-6-spooky-special-editio
- n
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:LRA Start #24 @ BA Start Arcade and Taproom (Super Smash Bros. Mel
  ee\, Super Smash Bros. Ultimate)
 DTSTART:20251025T210000Z
@@ -219,58 +42,6 @@ DESCRIPTION:Attendees: 32\nEvents: Ultimate Singles\, Melee Singles\nRegis
 LOCATION:647 Higuera St\, San Luis Obispo\, CA 93401\, USA\, San Luis Obis
  po\, 3\, US
 URL:https://start.gg/tournament/lra-start-24-ba-start-arcade-and-taproom
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SloBroke REBORN! #83 (Rivals of Aether II\, Super Smash Bros. Mele
- e\, Super Smash Bros. Ultimate)
-DTSTART:20251018T220000Z
-DTEND:20251019T050000Z
-UID:tournament-840031@nextbracket
-DESCRIPTION:Attendees: 32\nEvents: Rivals of Aether 2\, Ultimate Singles\,
-  Melee Singles\nRegistration Closed\nView on start.gg: https://start.gg/to
- urnament/slobroke-reborn-83
-LOCATION:Engineering IV\, San Luis Obispo\, CA 93407\, USA\, San Luis Obis
- po\, 3\, US
-URL:https://start.gg/tournament/slobroke-reborn-83
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SLO Smash Arcadian: Fall 2025 (Super Smash Bros. Melee\, Super Sma
- sh Bros. Ultimate)
-DTSTART:20251011T190000Z
-DTEND:20251012T050000Z
-UID:tournament-833665@nextbracket
-DESCRIPTION:Attendees: 63\nEvents: Ultimate Singles\, Ultimate Infused Dou
- bles\, Melee Infused Doubles\, Melee Singles\nRegistration Closed\nView on
-  start.gg: https://start.gg/tournament/slo-smash-arcadian-fall-2025
-LOCATION:Baker Science\, San Luis Obispo\, CA 93407\, USA\, San Luis Obisp
- o\, 3\, US
-URL:https://start.gg/tournament/slo-smash-arcadian-fall-2025
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SloBroke REBORN! #82 (Super Smash Bros. Melee\, Super Smash Bros. 
- Ultimate)
-DTSTART:20251008T013000Z
-DTEND:20251008T050000Z
-UID:tournament-835151@nextbracket
-DESCRIPTION:Attendees: 30\nEvents: Ultimate Singles\, Melee Singles\nRegis
- tration Closed\nView on start.gg: https://start.gg/tournament/slobroke-reb
- orn-82
-LOCATION:Engineering IV\, San Luis Obispo\, CA 93407\, USA\, San Luis Obis
- po\, 3\, US
-URL:https://start.gg/tournament/slobroke-reborn-82
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SloBroke REBORN! #81 - feat. Rivals 2! (Clash Royale\, Rivals of A
- ether II\, Super Smash Bros. Melee\, Super Smash Bros. Ultimate)
-DTSTART:20251004T190000Z
-DTEND:20251005T050000Z
-UID:tournament-834465@nextbracket
-DESCRIPTION:Attendees: 32\nEvents: Clash Royale Side Event\, Rivals 2\, Ul
- timate Singles\, Melee Singles\nRegistration Closed\nView on start.gg: htt
- ps://start.gg/tournament/slobroke-reborn-81-feat-rivals-2
-LOCATION:Engineering IV\, San Luis Obispo\, CA 93407\, USA\, San Luis Obis
- po\, 3\, US
-URL:https://start.gg/tournament/slobroke-reborn-81-feat-rivals-2
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LRA Start #23 @ BA Start Arcade and Taproom (Super Smash Bros. Mel
@@ -286,30 +57,6 @@ LOCATION:647 Higuera St\, San Luis Obispo\, CA 93401\, USA\, San Luis Obis
 URL:https://start.gg/tournament/lra-start-23-ba-start-arcade-and-taproom
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SloBroke REBORN! #80 (Guilty Gear: Strive\, Super Smash Bros. Mele
- e\, Super Smash Bros. Ultimate)
-DTSTART:20250920T003000Z
-DTEND:20250920T050000Z
-UID:tournament-830700@nextbracket
-DESCRIPTION:Attendees: 48\nEvents: Guilty Gear: Strive\, Ultimate Singles\
- , Melee Singles\nRegistration Closed\nView on start.gg: https://start.gg/t
- ournament/slobroke-reborn-80
-LOCATION:Engineering IV\, San Luis Obispo\, CA 93407\, USA\, San Luis Obis
- po\, 3\, US
-URL:https://start.gg/tournament/slobroke-reborn-80
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Busted Controllers #5 (Super Smash Bros. Melee)
-DTSTART:20250913T230000Z
-DTEND:20250914T065900Z
-UID:tournament-828108@nextbracket
-DESCRIPTION:Attendees: 7\nEvents: Melee Singles\nRegistration Closed\nView
-  on start.gg: https://start.gg/tournament/busted-controllers-5
-LOCATION:437 Kentucky St\, San Luis Obispo\, CA 93405\, USA\, San Luis Obi
- spo\, 3\, US
-URL:https://start.gg/tournament/busted-controllers-5
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:LRA Start #22 @BA Start Arcade and Taproom (Super Smash Bros. Mele
  e\, Super Smash Bros. Ultimate)
 DTSTART:20250830T213000Z
@@ -321,18 +68,6 @@ DESCRIPTION:Attendees: 25\nEvents: Melee Singles\, Ultimate Singles\nRegis
 LOCATION:647 Higuera St\, San Luis Obispo\, CA 93401\, USA\, San Luis Obis
  po\, 3\, US
 URL:https://start.gg/tournament/lra-start-22-ba-start-arcade-and-taproom
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Busted Controllers #4 $100 BONUS POT (Super Smash Bros. Melee)
-DTSTART:20250809T230000Z
-DTEND:20250810T065900Z
-UID:tournament-809034@nextbracket
-DESCRIPTION:Attendees: 15\nEvents: Melee Singles\nRegistration Closed\nVie
- w on start.gg: https://start.gg/tournament/busted-controllers-4-100-bonus-
- pot
-LOCATION:437 Kentucky St\, San Luis Obispo\, CA 93405\, USA\, San Luis Obi
- spo\, 3\, US
-URL:https://start.gg/tournament/busted-controllers-4-100-bonus-pot
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LRA Start #21 @ BA Start Arcade and Taproom (Super Smash Bros. Mel
@@ -348,17 +83,6 @@ LOCATION:647 Higuera St\, San Luis Obispo\, CA 93401\, USA\, San Luis Obis
 URL:https://start.gg/tournament/lra-start-21-ba-start-arcade-and-taproom
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Busted Controllers #3 (Super Smash Bros. Melee)
-DTSTART:20250712T230000Z
-DTEND:20250713T065900Z
-UID:tournament-807205@nextbracket
-DESCRIPTION:Attendees: 13\nEvents: Melee Singles\nRegistration Closed\nVie
- w on start.gg: https://start.gg/tournament/busted-controllers-3
-LOCATION:437 Kentucky St\, San Luis Obispo\, CA 93405\, USA\, San Luis Obi
- spo\, 3\, US
-URL:https://start.gg/tournament/busted-controllers-3
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:LRA Start #20 @ BA Start Arcade and Taproom (Super Smash Bros. Mel
  ee\, Super Smash Bros. Ultimate)
 DTSTART:20250628T210000Z
@@ -372,41 +96,6 @@ LOCATION:647 Higuera St\, San Luis Obispo\, CA 93401\, USA\, San Luis Obis
 URL:https://start.gg/tournament/lra-start-20-ba-start-arcade-and-taproom
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:AL1C3'S SICK INVITATIONAL (Super Smash Bros. Melee)
-DTSTART:20250623T000000Z
-DTEND:20250623T050000Z
-UID:tournament-800572@nextbracket
-DESCRIPTION:Attendees: 8\nEvents: Melee Singles\nRegistration Closed\nView
-  on start.gg: https://start.gg/tournament/al1c3-s-sick-invitational
-LOCATION:927 Vista Cerro Dr\, Paso Robles\, CA 93446\, USA\, Paso Robles\,
-  3\, US
-URL:https://start.gg/tournament/al1c3-s-sick-invitational
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Busted Controllers #2 (Super Smash Bros. Melee)
-DTSTART:20250614T230000Z
-DTEND:20250615T065900Z
-UID:tournament-797122@nextbracket
-DESCRIPTION:Attendees: 13\nEvents: Melee Singles\nRegistration Closed\nVie
- w on start.gg: https://start.gg/tournament/busted-controllers-2
-LOCATION:437 Kentucky St\, San Luis Obispo\, CA 93405\, USA\, San Luis Obi
- spo\, 3\, US
-URL:https://start.gg/tournament/busted-controllers-2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SloBroke REBORN! #79 - WeAwesomeJ <3 (Rivals of Aether\, Rivals of
-  Aether II\, Super Smash Bros. Melee\, Super Smash Bros. Ultimate)
-DTSTART:20250531T210000Z
-DTEND:20250601T050000Z
-UID:tournament-793892@nextbracket
-DESCRIPTION:Attendees: 30\nEvents: Rivals of Aether II\, Rivals of Aether 
- 1\, Ultimate Singles\, Melee Singles\nRegistration Closed\nView on start.g
- g: https://start.gg/tournament/slobroke-reborn-79-weawesomej-3-1
-LOCATION:Engineering IV\, San Luis Obispo\, CA 93407\, USA\, San Luis Obis
- po\, 3\, US
-URL:https://start.gg/tournament/slobroke-reborn-79-weawesomej-3-1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:LRA Plus 2 (Super Smash Bros. Melee\, Super Smash Bros. Ultimate)
 DTSTART:20250524T180000Z
 DTEND:20250526T050000Z
@@ -417,56 +106,6 @@ DESCRIPTION:Attendees: 134\nEvents: Ultimate Singles - SATURDAY\, Melee Si
 LOCATION:647 Higuera St\, San Luis Obispo\, CA 93401\, USA\, San Luis Obis
  po\, 3\, US
 URL:https://start.gg/tournament/lra-plus-2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SloBroke REBORN! #78 - feat. Rivals! (Rivals of Aether\, Rivals of
-  Aether II\, Super Smash Bros. Melee\, Super Smash Bros. Ultimate)
-DTSTART:20250517T210000Z
-DTEND:20250518T050000Z
-UID:tournament-789474@nextbracket
-DESCRIPTION:Attendees: 21\nEvents: Rivals of Aether II\, Rivals of Aether 
- 1\, Ultimate Singles\, Melee Singles\nRegistration Closed\nView on start.g
- g: https://start.gg/tournament/slobroke-reborn-78-feat-rivals
-LOCATION:Engineering IV\, San Luis Obispo\, CA 93407\, USA\, San Luis Obis
- po\, 3\, US
-URL:https://start.gg/tournament/slobroke-reborn-78-feat-rivals
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BusTed Controllers #1 (Super Smash Bros. Melee)
-DTSTART:20250511T010000Z
-DTEND:20250511T065900Z
-UID:tournament-768954@nextbracket
-DESCRIPTION:Attendees: 12\nEvents: Melee Singles\nRegistration Closed\nVie
- w on start.gg: https://start.gg/tournament/busted-controllers-1
-LOCATION:437 Kentucky St\, San Luis Obispo\, CA 93405\, USA\, San Luis Obi
- spo\, 3\, US
-URL:https://start.gg/tournament/busted-controllers-1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SloBroke REBORN! #77 (Super Smash Bros. Melee\, Super Smash Bros. 
- Ultimate)
-DTSTART:20250507T021500Z
-DTEND:20250507T050000Z
-UID:tournament-785166@nextbracket
-DESCRIPTION:Attendees: 22\nEvents: Melee Singles\, Ultimate Singles\nRegis
- tration Closed\nView on start.gg: https://start.gg/tournament/slobroke-reb
- orn-77
-LOCATION:Baker Science\, San Luis Obispo\, CA 93407\, USA\, San Luis Obisp
- o\, 3\, US
-URL:https://start.gg/tournament/slobroke-reborn-77
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SloBroke REBORN! #76 - feat. Rivals! (Rivals of Aether\, Rivals of
-  Aether II\, Super Smash Bros. Melee\, Super Smash Bros. Ultimate)
-DTSTART:20250503T210000Z
-DTEND:20250504T050000Z
-UID:tournament-784630@nextbracket
-DESCRIPTION:Attendees: 15\nEvents: Rivals of Aether 1\, Rivals of Aether I
- I\, Ultimate Singles\, Melee Singles\nRegistration Closed\nView on start.g
- g: https://start.gg/tournament/slobroke-reborn-76-feat-rivals
-LOCATION:Engineering IV\, San Luis Obispo\, CA 93407\, USA\, San Luis Obis
- po\, 3\, US
-URL:https://start.gg/tournament/slobroke-reborn-76-feat-rivals
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LRA Start @ BA Start Arcade and Taproom #19 (Super Smash Bros. Mel
@@ -482,58 +121,6 @@ LOCATION:647 Higuera St\, San Luis Obispo\, CA 93401\, USA\, San Luis Obis
 URL:https://start.gg/tournament/lra-start-ba-start-arcade-and-taproom-19
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SLO Smash Arcadian: Spring 2025 (Super Smash Bros. Melee\, Super S
- mash Bros. Ultimate)
-DTSTART:20250419T190000Z
-DTEND:20250420T050000Z
-UID:tournament-767199@nextbracket
-DESCRIPTION:Attendees: 60\nEvents: Melee Singles\, Ultimate Infused Double
- s\, Ultimate Singles\nRegistration Closed\nView on start.gg: https://start
- .gg/tournament/slo-smash-arcadian-spring-2025
-LOCATION:Engineering IV\, San Luis Obispo\, CA 93407\, USA\, San Luis Obis
- po\, 3\, US
-URL:https://start.gg/tournament/slo-smash-arcadian-spring-2025
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SloBroke REBORN! #75 (Super Smash Bros. Melee\, Super Smash Bros. 
- Ultimate)
-DTSTART:20250409T023000Z
-DTEND:20250409T050000Z
-UID:tournament-776750@nextbracket
-DESCRIPTION:Attendees: 22\nEvents: Ultimate Singles\, Melee Singles\nRegis
- tration Closed\nView on start.gg: https://start.gg/tournament/slobroke-reb
- orn-75
-LOCATION:Baker Science\, San Luis Obispo\, CA 93407\, USA\, San Luis Obisp
- o\, 3\, US
-URL:https://start.gg/tournament/slobroke-reborn-75
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SloBroke REBORN! #74 - feat. Rivals! (Rivals of Aether\, Rivals of
-  Aether II\, Super Smash Bros. Melee\, Super Smash Bros. Ultimate)
-DTSTART:20250405T210000Z
-DTEND:20250406T050000Z
-UID:tournament-775289@nextbracket
-DESCRIPTION:Attendees: 26\nEvents: Ultimate Singles\, Melee Singles\, Riva
- ls of Aether 1\, Rivals of Aether II\nRegistration Closed\nView on start.g
- g: https://start.gg/tournament/slobroke-reborn-74-feat-rivals
-LOCATION:Engineering IV\, San Luis Obispo\, CA 93407\, USA\, San Luis Obis
- po\, 3\, US
-URL:https://start.gg/tournament/slobroke-reborn-74-feat-rivals
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Masher Mayhem #88: Out-Mashed Again (Rock Paper Scissors\, Super S
- mash Bros. Melee\, Super Smash Bros. Ultimate)
-DTSTART:20250402T020000Z
-DTEND:20250402T050000Z
-UID:tournament-767192@nextbracket
-DESCRIPTION:Attendees: 24\nEvents: Ultimate Singles\, Melee Singles\, Rock
-  Paper Scissors\nRegistration Closed\nView on start.gg: https://start.gg/t
- ournament/masher-mayhem-88-out-mashed-again
-LOCATION:Baker Science\, San Luis Obispo\, CA 93407\, USA\, San Luis Obisp
- o\, 3\, US
-URL:https://start.gg/tournament/masher-mayhem-88-out-mashed-again
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:LRA Start #18 @ BA Start Arcade and Taproom (Super Smash Bros. Mel
  ee\, Super Smash Bros. Ultimate)
 DTSTART:20250329T210000Z
@@ -545,46 +132,6 @@ DESCRIPTION:Attendees: 29\nEvents: Ultimate Singles\, Melee Singles\nRegis
 LOCATION:647 Higuera St\, San Luis Obispo\, CA 93401\, USA\, San Luis Obis
  po\, 3\, US
 URL:https://start.gg/tournament/lra-start-18-ba-start-arcade-and-taproom
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SloBroke REBORN! #72 (Project+\, Super Smash Bros. Melee\, Super S
- mash Bros. Ultimate)
-DTSTART:20250322T210000Z
-DTEND:20250323T050000Z
-UID:tournament-765452@nextbracket
-DESCRIPTION:Attendees: 25\nEvents: Project + Singles\, Ultimate Singles\, 
- Melee Singles\nRegistration Closed\nView on start.gg: https://start.gg/tou
- rnament/slobroke-reborn-72
-LOCATION:Engineering IV\, San Luis Obispo\, CA 93407\, USA\, San Luis Obis
- po\, 3\, US
-URL:https://start.gg/tournament/slobroke-reborn-72
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SloBroke REBORN! #71 (Super Smash Bros. Melee\, Super Smash Bros. 
- Ultimate)
-DTSTART:20250305T030000Z
-DTEND:20250305T060000Z
-UID:tournament-760103@nextbracket
-DESCRIPTION:Attendees: 25\nEvents: Ultimate Singles\, Melee Singles\nRegis
- tration Closed\nView on start.gg: https://start.gg/tournament/slobroke-reb
- orn-71
-LOCATION:Baker Science\, San Luis Obispo\, CA 93407\, USA\, San Luis Obisp
- o\, 3\, US
-URL:https://start.gg/tournament/slobroke-reborn-71
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SloBroke REBORN! #70 - feat. Rivals 1 and 2! (Rivals of Aether\, R
- ivals of Aether II\, Super Smash Bros. Melee\, Super Smash Bros. Ultimate)
-DTSTART:20250301T220000Z
-DTEND:20250302T060000Z
-UID:tournament-760081@nextbracket
-DESCRIPTION:Attendees: 28\nEvents: Rivals of Aether 1 Singles\, Rivals of 
- Aether II Singles\, Ultimate Singles\, Melee Singles\nRegistration Closed\
- nView on start.gg: https://start.gg/tournament/slobroke-reborn-70-feat-riv
- als-1-and-2
-LOCATION:Engineering IV\, San Luis Obispo\, CA 93407\, USA\, San Luis Obis
- po\, 3\, US
-URL:https://start.gg/tournament/slobroke-reborn-70-feat-rivals-1-and-2
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LRA Start #17 @ BA Start Arcade and Taproom - $50 Melee Pot Bonus!
@@ -601,33 +148,6 @@ URL:https://start.gg/tournament/lra-start-17-ba-start-arcade-and-taproom-5
  0-melee
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SloBroke REBORN! #69 - $42.0 Pot Bonus! (Super Smash Bros. Melee\,
-  Super Smash Bros. Ultimate)
-DTSTART:20250205T031500Z
-DTEND:20250205T060000Z
-UID:tournament-752371@nextbracket
-DESCRIPTION:Attendees: 26\nEvents: Melee Singles\, Ultimate Singles\nRegis
- tration Closed\nView on start.gg: https://start.gg/tournament/slobroke-reb
- orn-69-42-0-pot-bonus
-LOCATION:Baker Science\, San Luis Obispo\, CA 93407\, USA\, San Luis Obisp
- o\, 3\, US
-URL:https://start.gg/tournament/slobroke-reborn-69-42-0-pot-bonus
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:UPS 11: Love Letters - $250 POT BONUS (Guilty Gear: Strive\, Rival
- s of Aether II\, Super Smash Bros. Melee\, Super Smash Bros. Ultimate)
-DTSTART:20250201T200000Z
-DTEND:20250202T060000Z
-UID:tournament-747917@nextbracket
-DESCRIPTION:Attendees: 59\nEvents: Ultimate Doubles\, Ultimate Singles\, R
- ivals II Singles\, Guilty Gear Strive\, Melee Singles\nRegistration Closed
- \nView on start.gg: https://start.gg/tournament/ups-11-love-letters-250-po
- t-bonus
-LOCATION:Engineering IV\, San Luis Obispo\, CA 93405\, USA\, San Luis Obis
- po\, 3\, US
-URL:https://start.gg/tournament/ups-11-love-letters-250-pot-bonus
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:LRA Start #16 @ BA Start Arcade and Taproom (Super Smash Bros. Mel
  ee\, Super Smash Bros. Ultimate)
 DTSTART:20250125T220000Z
@@ -639,32 +159,6 @@ DESCRIPTION:Attendees: 39\nEvents: Ultimate Singles\, Melee Singles\nRegis
 LOCATION:647 Higuera St\, San Luis Obispo\, CA 93401\, USA\, San Luis Obis
  po\, 3\, US
 URL:https://start.gg/tournament/lra-start-16-ba-start-arcade-and-taproom
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SloBroke REBORN #68 (Super Smash Bros. Melee\, Super Smash Bros. U
- ltimate)
-DTSTART:20250115T030000Z
-DTEND:20250115T060000Z
-UID:tournament-746521@nextbracket
-DESCRIPTION:Attendees: 31\nEvents: Ultimate Singles\, Melee Singles\nRegis
- tration Closed\nView on start.gg: https://start.gg/tournament/slobroke-reb
- orn-68
-LOCATION:Baker Science\, San Luis Obispo\, CA 93407\, USA\, San Luis Obisp
- o\, 3\, US
-URL:https://start.gg/tournament/slobroke-reborn-68
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SLO Smash Arcadian: Winter 2025 (Super Smash Bros. Melee\, Super S
- mash Bros. Ultimate)
-DTSTART:20250111T200000Z
-DTEND:20250112T060000Z
-UID:tournament-745877@nextbracket
-DESCRIPTION:Attendees: 34\nEvents: Melee Doubles\, Melee Singles\, Ultimat
- e Singles\, Ultimate Infused Doubles\nRegistration Closed\nView on start.g
- g: https://start.gg/tournament/slo-smash-arcadian-winter-2025
-LOCATION:Engineering IV\, San Luis Obispo\, CA 93407\, USA\, San Luis Obis
- po\, 3\, US
-URL:https://start.gg/tournament/slo-smash-arcadian-winter-2025
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LRA Start #15 @ BA Start Arcade and Taproom (Super Smash Bros. Mel
@@ -680,19 +174,6 @@ LOCATION:647 Higuera St\, San Luis Obispo\, CA 93401\, USA\, San Luis Obis
 URL:https://start.gg/tournament/lra-start-15-ba-start-arcade-and-taproom
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SloBroke REBORN #67 (Super Smash Bros. Melee\, Super Smash Bros. U
- ltimate)
-DTSTART:20241130T220000Z
-DTEND:20241201T060000Z
-UID:tournament-735520@nextbracket
-DESCRIPTION:Attendees: 18\nEvents: Ultimate Singles\, Melee Singles\nRegis
- tration Closed\nView on start.gg: https://start.gg/tournament/slobroke-reb
- orn-67
-LOCATION:Engineering IV\, San Luis Obispo\, CA 93407\, USA\, San Luis Obis
- po\, 3\, US
-URL:https://start.gg/tournament/slobroke-reborn-67
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:LRA Start #14 @ BA Start Arcade and Taproom (Super Smash Bros. Mel
  ee\, Super Smash Bros. Ultimate)
 DTSTART:20241123T220000Z
@@ -706,33 +187,6 @@ LOCATION:647 Higuera St\, San Luis Obispo\, CA 93401\, USA\, San Luis Obis
 URL:https://start.gg/tournament/lra-start-14-ba-start-arcade-and-taproom
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SloBroke REBORN #66 (Mario Kart 8 Deluxe\, Super Smash Bros. Melee
- \, Super Smash Bros. Ultimate)
-DTSTART:20241116T220000Z
-DTEND:20241117T060000Z
-UID:tournament-713128@nextbracket
-DESCRIPTION:Attendees: 28\nEvents: Mario Kart 8 Deluxe\, Ultimate Singles\
- , Melee Singles\nRegistration Closed\nView on start.gg: https://start.gg/t
- ournament/slobroke-reborn-66
-LOCATION:Engineering IV\, San Luis Obispo\, CA 93407\, USA\, San Luis Obis
- po\, 3\, US
-URL:https://start.gg/tournament/slobroke-reborn-66
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:UPS 10: Return to Sender - $170 POT BONUS (Guilty Gear: Strive\, R
- ivals of Aether II\, Super Smash Bros. Melee\, Super Smash Bros. Ultimate)
-DTSTART:20241102T190000Z
-DTEND:20241103T050000Z
-UID:tournament-720447@nextbracket
-DESCRIPTION:Attendees: 49\nEvents: Ultimate Doubles\, Ultimate Singles\, R
- ivals II Singles\, Guilty Gear Strive\, Melee Singles\nRegistration Closed
- \nView on start.gg: https://start.gg/tournament/ups-10-return-to-sender-17
- 0-pot-bonus
-LOCATION:Engineering IV\, San Luis Obispo\, CA 93405\, USA\, San Luis Obis
- po\, 3\, US
-URL:https://start.gg/tournament/ups-10-return-to-sender-170-pot-bonus
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:LRA Start #13 @ BA Start Arcade and Taproom (Super Smash Bros. Mel
  ee\, Super Smash Bros. Ultimate)
 DTSTART:20241026T210000Z
@@ -744,45 +198,6 @@ DESCRIPTION:Attendees: 42\nEvents: Melee Singles\, Ultimate Singles\nRegis
 LOCATION:647 Higuera St\, San Luis Obispo\, CA 93401\, USA\, San Luis Obis
  po\, 3\, US
 URL:https://start.gg/tournament/lra-start-13-ba-start-arcade-and-taproom
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SloBroke REBORN #65 (Rivals of Aether\, Super Smash Bros. Melee\, 
- Super Smash Bros. Ultimate)
-DTSTART:20241019T210000Z
-DTEND:20241020T050000Z
-UID:tournament-720464@nextbracket
-DESCRIPTION:Attendees: 31\nEvents: Rivals of Aether Singles\, Ultimate Sin
- gles\, Melee Singles\nRegistration Closed\nView on start.gg: https://start
- .gg/tournament/slobroke-reborn-65-1
-LOCATION:Engineering IV\, San Luis Obispo\, CA 93407\, USA\, San Luis Obis
- po\, 3\, US
-URL:https://start.gg/tournament/slobroke-reborn-65-1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SLO Smash Arcadian: Fall 2024 (Super Smash Bros. Melee\, Super Sma
- sh Bros. Ultimate)
-DTSTART:20241012T190000Z
-DTEND:20241013T050000Z
-UID:tournament-715409@nextbracket
-DESCRIPTION:Attendees: 42\nEvents: Ultimate Infused Doubles\, Ultimate Sin
- gles\, Melee Singles\nRegistration Closed\nView on start.gg: https://start
- .gg/tournament/slo-smash-arcadian-fall-2024
-LOCATION:Baker Science\, San Luis Obispo\, CA 93407\, USA\, San Luis Obisp
- o\, 3\, US
-URL:https://start.gg/tournament/slo-smash-arcadian-fall-2024
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SloBroke REBORN #64 (Project+\, Super Smash Bros. Melee\, Super Sm
- ash Bros. Ultimate)
-DTSTART:20241005T210000Z
-DTEND:20241006T050000Z
-UID:tournament-715390@nextbracket
-DESCRIPTION:Attendees: 34\nEvents: Project+ Singles\, Ultimate Singles\, M
- elee Singles\nRegistration Closed\nView on start.gg: https://start.gg/tour
- nament/slobroke-reborn-64-1
-LOCATION:Baker Science\, San Luis Obispo\, CA 93407\, USA\, San Luis Obisp
- o\, 3\, US
-URL:https://start.gg/tournament/slobroke-reborn-64-1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LRA Start #12 @ BA Start Arcade and Taproom - MELEE ONLY (Super Sm
@@ -851,20 +266,6 @@ LOCATION:647 Higuera St\, San Luis Obispo\, CA 93401\, USA\, San Luis Obis
 URL:https://start.gg/tournament/lra-start-9-ba-start-arcade-and-taproom
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SloBroke REBORN #63: Season Finale (Guilty Gear: Strive\, Rivals o
- f Aether\, Super Smash Bros. Melee\, Super Smash Bros. Ultimate)
-DTSTART:20240601T210000Z
-DTEND:20240602T050000Z
-UID:tournament-674089@nextbracket
-DESCRIPTION:Attendees: 31\nEvents: Guilty Gear: Strive Singles\, Ultimate 
- Singles\, Melee Singles\, Rivals of Aether Singles\nRegistration Closed\nV
- iew on start.gg: https://start.gg/tournament/slobroke-reborn-63-season-fin
- ale
-LOCATION:Engineering IV\, San Luis Obispo\, CA 93407\, USA\, San Luis Obis
- po\, 3\, US
-URL:https://start.gg/tournament/slobroke-reborn-63-season-finale
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:LRA Start #8 @ BA Start Arcade and Taproom (Super Smash Bros. Mele
  e\, Super Smash Bros. Ultimate)
 DTSTART:20240525T213000Z
@@ -876,111 +277,6 @@ DESCRIPTION:Attendees: 39\nEvents: Ultimate Singles\, Melee Singles\nRegis
 LOCATION:647 Higuera St\, San Luis Obispo\, CA 93401\, USA\, San Luis Obis
  po\, 3\, US
 URL:https://start.gg/tournament/lra-start-8-ba-start-arcade-and-taproom
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Game For a Cause 2024 (Street Fighter 6\, Super Smash Bros. Melee\
- , Super Smash Bros. Ultimate)
-DTSTART:20240511T170000Z
-DTEND:20240512T040000Z
-UID:tournament-666159@nextbracket
-DESCRIPTION:Attendees: 34\nEvents: Street Fighter 6 Singles\, Ultimate Sin
- gles\, Melee Singles\nRegistration Closed\nView on start.gg: https://start
- .gg/tournament/game-for-a-cause-2024
-LOCATION:Engineering IV\, San Luis Obispo\, CA 93407\, USA\, San Luis Obis
- po\, 3\, US
-URL:https://start.gg/tournament/game-for-a-cause-2024
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SLO Smash Arcadian: Spring 2024 (Super Smash Bros. Melee\, Super S
- mash Bros. Ultimate)
-DTSTART:20240504T210000Z
-DTEND:20240505T050000Z
-UID:tournament-660527@nextbracket
-DESCRIPTION:Attendees: 42\nEvents: Ultimate Infused Doubles\, Ultimate Sin
- gles\, Melee Singles\nRegistration Closed\nView on start.gg: https://start
- .gg/tournament/slo-smash-arcadian-spring-2024
-LOCATION:Engineering IV\, San Luis Obispo\, CA 93407\, USA\, San Luis Obis
- po\, 3\, US
-URL:https://start.gg/tournament/slo-smash-arcadian-spring-2024
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SloBroke REBORN!! #61 (Rivals of Aether\, Super Smash Bros. Melee\
- , Super Smash Bros. Ultimate)
-DTSTART:20240420T210000Z
-DTEND:20240421T040000Z
-UID:tournament-660529@nextbracket
-DESCRIPTION:Attendees: 22\nEvents: Melee Singles\, Rivals of Aether Single
- s\, Ultimate Singles\nRegistration Closed\nView on start.gg: https://start
- .gg/tournament/slobroke-reborn-61
-LOCATION:Engineering IV\, San Luis Obispo\, CA 93407\, USA\, San Luis Obis
- po\, 3\, US
-URL:https://start.gg/tournament/slobroke-reborn-61
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SloBroke REBORN!! #60 (Guilty Gear: Strive\, Rivals of Aether\, Su
- per Smash Bros. Melee\, Super Smash Bros. Ultimate)
-DTSTART:20240406T210000Z
-DTEND:20240407T040000Z
-UID:tournament-655534@nextbracket
-DESCRIPTION:Attendees: 42\nEvents: GGST Double Elim\, Rivals of Aether Sin
- gles\, Random Squad Strike\, Ultimate Singles\, Melee Singles\nRegistratio
- n Closed\nView on start.gg: https://start.gg/tournament/slobroke-reborn-60
-LOCATION:Engineering IV\, San Luis Obispo\, CA 93407\, USA\, San Luis Obis
- po\, 3\, US
-URL:https://start.gg/tournament/slobroke-reborn-60
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SloBroke REBORN! #59 (Rivals of Aether\, Super Smash Bros. Melee\,
-  Super Smash Bros. Ultimate)
-DTSTART:20240309T220000Z
-DTEND:20240310T050000Z
-UID:tournament-645444@nextbracket
-DESCRIPTION:Attendees: 29\nEvents: Ultimate Singles\, Melee Singles\, Riva
- ls of Aether Singles\nRegistration Closed\nView on start.gg: https://start
- .gg/tournament/slobroke-reborn-59
-LOCATION:Clyde P. Fisher Science\, 1 Grand Ave\, San Luis Obispo\, CA 9340
- 7\, USA\, San Luis Obispo\, 3\, US
-URL:https://start.gg/tournament/slobroke-reborn-59
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SLO Smash Arcadian: Winter 2024 (Guilty Gear: Strive\, Super Smash
-  Bros. Melee\, Super Smash Bros. Ultimate)
-DTSTART:20240302T200000Z
-DTEND:20240303T060000Z
-UID:tournament-640359@nextbracket
-DESCRIPTION:Attendees: 40\nEvents: Ultimate Infused Doubles\, Ultimate Sin
- gles\, Guilty Gear: Strive Singles\, Melee Singles\nRegistration Closed\nV
- iew on start.gg: https://start.gg/tournament/slo-smash-arcadian-winter-202
- 4
-LOCATION:Baker Science\, San Luis Obispo\, CA 93405\, USA\, San Luis Obisp
- o\, 3\, US
-URL:https://start.gg/tournament/slo-smash-arcadian-winter-2024
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SloBroke REBORN! #58 (Rivals of Aether\, Super Smash Bros. Melee\,
-  Super Smash Bros. Ultimate)
-DTSTART:20240224T220000Z
-DTEND:20240225T053000Z
-UID:tournament-640353@nextbracket
-DESCRIPTION:Attendees: 22\nEvents: Rivals of Aether Singles\, Ultimate Sin
- gles\, Melee Singles\nRegistration Closed\nView on start.gg: https://start
- .gg/tournament/slobroke-reborn-58
-LOCATION:Clyde P. Fisher Science\, 1 Grand Ave\, San Luis Obispo\, CA 9340
- 7\, USA\, San Luis Obispo\, 3\, US
-URL:https://start.gg/tournament/slobroke-reborn-58
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SloBroke REBORN #57 (Rivals of Aether\, Super Smash Bros. Melee\, 
- Super Smash Bros. Ultimate)
-DTSTART:20240210T220000Z
-DTEND:20240211T050000Z
-UID:tournament-635771@nextbracket
-DESCRIPTION:Attendees: 31\nEvents: Ultimate Singles\, Melee Singles\, Riva
- ls of Aether Singles\nRegistration Closed\nView on start.gg: https://start
- .gg/tournament/slobroke-reborn-57-1
-LOCATION:Clyde P. Fisher Science\, 1 Grand Ave\, San Luis Obispo\, CA 9340
- 7\, USA\, San Luis Obispo\, 3\, US
-URL:https://start.gg/tournament/slobroke-reborn-57-1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LRA Plus @ BA Start Arcade and Taproom (Street Fighter 6\, Super S
@@ -996,19 +292,6 @@ LOCATION:647 Higuera St\, San Luis Obispo\, CA 93401\, USA\, San Luis Obis
 URL:https://start.gg/tournament/lra-plus-ba-start-arcade-and-taproom
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SloBroke REBORN #56 (Rivals of Aether\, Super Smash Bros. Melee\, 
- Super Smash Bros. Ultimate)
-DTSTART:20240120T220000Z
-DTEND:20240121T050000Z
-UID:tournament-627950@nextbracket
-DESCRIPTION:Attendees: 28\nEvents: Ultimate Singles\, Melee Singles\, Riva
- ls of Aether Singles\nRegistration Closed\nView on start.gg: https://start
- .gg/tournament/slobroke-reborn-56-1
-LOCATION:Clyde P. Fisher Science\, 1 Grand Ave\, San Luis Obispo\, CA 9340
- 7\, USA\, San Luis Obispo\, 3\, US
-URL:https://start.gg/tournament/slobroke-reborn-56-1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:LRA Start #7 @ BA Start Arcade and Taproom (Super Smash Bros. Mele
  e\, Super Smash Bros. Ultimate)
 DTSTART:20231216T223000Z
@@ -1020,19 +303,6 @@ DESCRIPTION:Attendees: 17\nEvents: Ultimate Singles\, Melee Singles\nRegis
 LOCATION:647 Higuera St\, San Luis Obispo\, CA 93401\, USA\, San Luis Obis
  po\, 3\, US
 URL:https://start.gg/tournament/lra-start-7-ba-start-arcade-and-taproom
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SloBroke REBORN #55 (Rivals of Aether\, Super Smash Bros. Melee\, 
- Super Smash Bros. Ultimate)
-DTSTART:20231202T220000Z
-DTEND:20231203T060000Z
-UID:tournament-615659@nextbracket
-DESCRIPTION:Attendees: 24\nEvents: Ultimate Singles\, Rivals of Aether Sin
- gles\, Melee Singles\nRegistration Closed\nView on start.gg: https://start
- .gg/tournament/slobroke-reborn-55
-LOCATION:Clyde P. Fisher Science\, 1 Grand Ave\, San Luis Obispo\, CA 9340
- 7\, USA\, San Luis Obispo\, 3\, US
-URL:https://start.gg/tournament/slobroke-reborn-55
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LRA Start @BA Start Arcade and Taproom #6 (Super Smash Bros. Melee
@@ -1048,47 +318,6 @@ LOCATION:647 Higuera St\, San Luis Obispo\, CA 93401\, USA\, San Luis Obis
 URL:https://start.gg/tournament/lra-start-ba-start-arcade-and-taproom-6
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SloBroke REBORN #54 (Rivals of Aether\, Super Smash Bros. Melee\, 
- Super Smash Bros. Ultimate)
-DTSTART:20231111T210000Z
-DTEND:20231112T060000Z
-UID:tournament-608934@nextbracket
-DESCRIPTION:Attendees: 31\nEvents: Rivals of Aether Singles\, Ultimate Sin
- gles\, Melee Singles\nRegistration Closed\nView on start.gg: https://start
- .gg/tournament/slobroke-reborn-54
-LOCATION:Clyde P. Fisher Science\, 1 Grand Ave\, San Luis Obispo\, CA 9340
- 7\, USA\, San Luis Obispo\, 3\, US
-URL:https://start.gg/tournament/slobroke-reborn-54
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:UPS 9: Signature Required ($300 in Pot Bonuses) (Street Fighter 6\
- , Super Smash Bros. Melee\, Super Smash Bros. Ultimate)
-DTSTART:20231104T210000Z
-DTEND:20231105T050000Z
-UID:tournament-599104@nextbracket
-DESCRIPTION:Attendees: 44\nEvents: Ultimate Ladder\, Melee Doubles\, Ultim
- ate Singles\, Ultimate Doubles\, Street Fighter 6\, Melee Singles\nRegistr
- ation Closed\nView on start.gg: https://start.gg/tournament/ups-9-signatur
- e-required-300-in-pot-bonuses
-LOCATION:Engineering IV\, San Luis Obispo\, CA 93405\, USA\, San Luis Obis
- po\, 3\, US
-URL:https://start.gg/tournament/ups-9-signature-required-300-in-pot-bonuse
- s
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SPOOKY SloBroke REBORN! #53 (Super Smash Bros. Melee\, Super Smash
-  Bros. Ultimate)
-DTSTART:20231028T203000Z
-DTEND:20231029T044500Z
-UID:tournament-603022@nextbracket
-DESCRIPTION:Attendees: 25\nEvents: Trick-or-Treat Bracket (Poison and Mega
-  Mushrooms Enabled)\, Ultimate Singles\, Melee Singles\nRegistration Close
- d\nView on start.gg: https://start.gg/tournament/spooky-slobroke-reborn-53
-LOCATION:Engineering IV\, San Luis Obispo\, CA 93405\, USA\, San Luis Obis
- po\, 3\, US
-URL:https://start.gg/tournament/spooky-slobroke-reborn-53
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:LRA Start @ BA Start Arcade and Taproom #5 (Super Smash Bros. Mele
  e\, Super Smash Bros. Ultimate)
 DTSTART:20231021T213000Z
@@ -1100,45 +329,6 @@ DESCRIPTION:Attendees: 34\nEvents: Ultimate Singles\, Melee Singles\nRegis
 LOCATION:647 Higuera St\, San Luis Obispo\, CA 93401\, USA\, San Luis Obis
  po\, 3\, US
 URL:https://start.gg/tournament/lra-start-ba-start-arcade-and-taproom-5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SloBroke REBORN! #52 (Super Smash Bros. Melee\, Super Smash Bros. 
- Ultimate)
-DTSTART:20231014T203000Z
-DTEND:20231015T044500Z
-UID:tournament-599541@nextbracket
-DESCRIPTION:Attendees: 31\nEvents: Ultimate Reverse Mains\, Ultimate Singl
- es\, Melee Singles\nRegistration Closed\nView on start.gg: https://start.g
- g/tournament/slobroke-reborn-52
-LOCATION:Engineering IV\, San Luis Obispo\, CA 93405\, USA\, San Luis Obis
- po\, 3\, US
-URL:https://start.gg/tournament/slobroke-reborn-52
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SLO Smash Arcadian: Fall 2023 (Street Fighter 6\, Super Smash Bros
- . Melee\, Super Smash Bros. Ultimate)
-DTSTART:20231007T200000Z
-DTEND:20231008T050000Z
-UID:tournament-594014@nextbracket
-DESCRIPTION:Attendees: 62\nEvents: Ultimate Infused Doubles\, Ultimate Sin
- gles\, Street Fighter 6\, Melee Singles\nRegistration Closed\nView on star
- t.gg: https://start.gg/tournament/slo-smash-arcadian-fall-2023
-LOCATION:Baker Science\, San Luis Obispo\, CA 93405\, USA\, San Luis Obisp
- o\, 3\, US
-URL:https://start.gg/tournament/slo-smash-arcadian-fall-2023
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SloBroke REBORN #51 (Super Smash Bros. Melee\, Super Smash Bros. U
- ltimate)
-DTSTART:20231001T013000Z
-DTEND:20231001T050000Z
-UID:tournament-593995@nextbracket
-DESCRIPTION:Attendees: 35\nEvents: Ultimate Singles\, Melee Singles\nRegis
- tration Closed\nView on start.gg: https://start.gg/tournament/slobroke-reb
- orn-51-1
-LOCATION:Engineering IV\, San Luis Obispo\, CA 93405\, USA\, San Luis Obis
- po\, 3\, US
-URL:https://start.gg/tournament/slobroke-reborn-51-1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LRA Start @ BA Start Arcade and Taproom #4 (Super Smash Bros. Mele
@@ -1240,18 +430,6 @@ LOCATION:San Luis Obispo\, CA\, USA\, San Luis Obispo\, 3\, US
 URL:https://start.gg/tournament/big-house-summer-series-1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:NO CONTEST: An AL1C3 Birthday Bash (Super Smash Bros. Melee)
-DTSTART:20230623T000000Z
-DTEND:20230623T060000Z
-UID:tournament-561400@nextbracket
-DESCRIPTION:Attendees: 8\nEvents: Melee Singles\nRegistration Closed\nView
-  on start.gg: https://start.gg/tournament/no-contest-an-al1c3-birthday-bas
- h
-LOCATION:927 Vista Cerro Dr\, Paso Robles\, CA 93446\, USA\, Paso Robles\,
-  3\, US
-URL:https://start.gg/tournament/no-contest-an-al1c3-birthday-bash
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:LRA Start #1 @ BA Start Arcade and Taproom (Super Smash Bros. Mele
  e\, Super Smash Bros. Ultimate)
 DTSTART:20230610T210000Z
@@ -1265,32 +443,182 @@ LOCATION:647 Higuera St\, San Luis Obispo\, CA 93401\, USA\, San Luis Obis
 URL:https://start.gg/tournament/lra-start-1-ba-start-arcade-and-taproom
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SloBroke REBORN #50 ($200 Pot Bonus!) (Guilty Gear: Strive\, Stree
- t Fighter 6\, Super Smash Bros. Melee\, Super Smash Bros. Ultimate)
-DTSTART:20230603T190000Z
-DTEND:20230604T050000Z
-UID:tournament-534610@nextbracket
-DESCRIPTION:Attendees: 59\nEvents: Melee Doubles\, Melee Casual Bracket\, 
- Street Fighter 6 Double Elimination Bracket\, Ultimate Casual Bracket\, Ul
- timate Doubles\, Ultimate Singles\, Guilty Gear: Strive Double Elimination
-  Bracket\, Melee Singles\nRegistration Closed\nView on start.gg: https://s
- tart.gg/tournament/slobroke-reborn-50-200-pot-bonus
-LOCATION:Engineering IV\, San Luis Obispo\, CA 93405\, USA\, San Luis Obis
- po\, 3\, US
-URL:https://start.gg/tournament/slobroke-reborn-50-200-pot-bonus
+SUMMARY:Busted Controllers #9 (Super Smash Bros. Melee)
+DTSTART:20260103T220000Z
+DTEND:20260104T075900Z
+UID:tournament-865794@nextbracket
+DESCRIPTION:Attendees: 7\nEvents: Melee Singles\nRegistration Closed\nView
+  on start.gg: https://start.gg/tournament/busted-controllers-9
+LOCATION:437 Kentucky St\, San Luis Obispo\, CA 93405\, USA\, San Luis Obi
+ spo\, 1\, US
+URL:https://start.gg/tournament/busted-controllers-9
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Masher Mayhem #40 (Super Smash Bros. Melee\, Super Smash Bros. Ult
- imate)
-DTSTART:20230602T233000Z
-DTEND:20230603T050000Z
-UID:tournament-554871@nextbracket
-DESCRIPTION:Attendees: 24\nEvents: Ultimate Randubs\, Ultimate Singles\, M
- elee Singles\nRegistration Closed\nView on start.gg: https://start.gg/tour
- nament/masher-mayhem-40
-LOCATION:Engineering IV\, San Luis Obispo\, CA 93405\, USA\, San Luis Obis
- po\, 3\, US
-URL:https://start.gg/tournament/masher-mayhem-40
+SUMMARY:Busted Controllers ONLINE #4 - "Comcast won't provide my address w
+ ith fiber" (Super Smash Bros. Melee)
+DTSTART:20260103T030000Z
+DTEND:20260103T075900Z
+UID:tournament-865793@nextbracket
+DESCRIPTION:Attendees: 11\nEvents: Melee Singles\nRegistration Closed\nVie
+ w on start.gg: https://start.gg/tournament/busted-controllers-online-4-com
+ cast-won-t-provide-my-address-with-fiber
+LOCATION:San Luis Obispo\, 3\, US
+URL:https://start.gg/tournament/busted-controllers-online-4-comcast-won-t-
+ provide-my-address-with-fiber
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Busted Controllers ONLINE #3 - "There's an outage in your area" (S
+ uper Smash Bros. Melee)
+DTSTART:20251227T030000Z
+DTEND:20251227T075900Z
+UID:tournament-863350@nextbracket
+DESCRIPTION:Attendees: 7\nEvents: Melee Singles\nRegistration Closed\nView
+  on start.gg: https://start.gg/tournament/busted-controllers-online-3-ther
+ e-s-an-outage-in-your-area
+LOCATION:San Luis Obispo\, 3\, US
+URL:https://start.gg/tournament/busted-controllers-online-3-there-s-an-out
+ age-in-your-area
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Busted Controllers #8 (Super Smash Bros. Melee)
+DTSTART:20251220T220000Z
+DTEND:20251221T075900Z
+UID:tournament-860512@nextbracket
+DESCRIPTION:Attendees: 17\nEvents: Melee Singles\nRegistration Closed\nVie
+ w on start.gg: https://start.gg/tournament/busted-controllers-8
+LOCATION:437 Kentucky St\, San Luis Obispo\, CA 93405\, USA\, San Luis Obi
+ spo\, 3\, US
+URL:https://start.gg/tournament/busted-controllers-8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Busted Controllers ONLINE #2 - "I'm using starbucks wifi" (Super S
+ mash Bros. Melee)
+DTSTART:20251220T030000Z
+DTEND:20251220T075900Z
+UID:tournament-861433@nextbracket
+DESCRIPTION:Attendees: 12\nEvents: Melee Singles\nRegistration Closed\nVie
+ w on start.gg: https://start.gg/tournament/busted-controllers-online-2-i-m
+ -using-starbucks-wifi
+LOCATION:San Luis Obispo\, 3\, US
+URL:https://start.gg/tournament/busted-controllers-online-2-i-m-using-star
+ bucks-wifi
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Busted Controllers ONLINE - Stop spamming laser! (Super Smash Bros
+ . Melee)
+DTSTART:20251213T023000Z
+DTEND:20251213T075900Z
+UID:tournament-860540@nextbracket
+DESCRIPTION:Attendees: 7\nEvents: Melee Singles\nRegistration Closed\nView
+  on start.gg: https://start.gg/tournament/busted-controllers-online-stop-s
+ pamming-laser
+LOCATION:San Luis Obispo\, 3\, US
+URL:https://start.gg/tournament/busted-controllers-online-stop-spamming-la
+ ser
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Busted Controllers #7 (Super Smash Bros. Melee)
+DTSTART:20251206T220000Z
+DTEND:20251207T060000Z
+UID:tournament-858880@nextbracket
+DESCRIPTION:Attendees: 7\nEvents: Melee Singles\nRegistration Closed\nView
+  on start.gg: https://start.gg/tournament/busted-controllers-7
+LOCATION:437 Kentucky St\, San Luis Obispo\, CA 93405\, USA\, San Luis Obi
+ spo\, 3\, US
+URL:https://start.gg/tournament/busted-controllers-7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Busted Controllers #6 - Spooky Special Edition (Super Smash Bros. 
+ Melee)
+DTSTART:20251101T030000Z
+DTEND:20251101T095900Z
+UID:tournament-842628@nextbracket
+DESCRIPTION:Attendees: 9\nEvents: Melee Singles\nRegistration Closed\nView
+  on start.gg: https://start.gg/tournament/busted-controllers-6-spooky-spec
+ ial-edition
+LOCATION:437 Kentucky St\, San Luis Obispo\, CA 93405\, USA\, San Luis Obi
+ spo\, 3\, US
+URL:https://start.gg/tournament/busted-controllers-6-spooky-special-editio
+ n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Busted Controllers #5 (Super Smash Bros. Melee)
+DTSTART:20250913T230000Z
+DTEND:20250914T065900Z
+UID:tournament-828108@nextbracket
+DESCRIPTION:Attendees: 7\nEvents: Melee Singles\nRegistration Closed\nView
+  on start.gg: https://start.gg/tournament/busted-controllers-5
+LOCATION:437 Kentucky St\, San Luis Obispo\, CA 93405\, USA\, San Luis Obi
+ spo\, 3\, US
+URL:https://start.gg/tournament/busted-controllers-5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Busted Controllers #4 $100 BONUS POT (Super Smash Bros. Melee)
+DTSTART:20250809T230000Z
+DTEND:20250810T065900Z
+UID:tournament-809034@nextbracket
+DESCRIPTION:Attendees: 15\nEvents: Melee Singles\nRegistration Closed\nVie
+ w on start.gg: https://start.gg/tournament/busted-controllers-4-100-bonus-
+ pot
+LOCATION:437 Kentucky St\, San Luis Obispo\, CA 93405\, USA\, San Luis Obi
+ spo\, 3\, US
+URL:https://start.gg/tournament/busted-controllers-4-100-bonus-pot
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Busted Controllers #3 (Super Smash Bros. Melee)
+DTSTART:20250712T230000Z
+DTEND:20250713T065900Z
+UID:tournament-807205@nextbracket
+DESCRIPTION:Attendees: 13\nEvents: Melee Singles\nRegistration Closed\nVie
+ w on start.gg: https://start.gg/tournament/busted-controllers-3
+LOCATION:437 Kentucky St\, San Luis Obispo\, CA 93405\, USA\, San Luis Obi
+ spo\, 3\, US
+URL:https://start.gg/tournament/busted-controllers-3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Busted Controllers #2 (Super Smash Bros. Melee)
+DTSTART:20250614T230000Z
+DTEND:20250615T065900Z
+UID:tournament-797122@nextbracket
+DESCRIPTION:Attendees: 13\nEvents: Melee Singles\nRegistration Closed\nVie
+ w on start.gg: https://start.gg/tournament/busted-controllers-2
+LOCATION:437 Kentucky St\, San Luis Obispo\, CA 93405\, USA\, San Luis Obi
+ spo\, 3\, US
+URL:https://start.gg/tournament/busted-controllers-2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BusTed Controllers #1 (Super Smash Bros. Melee)
+DTSTART:20250511T010000Z
+DTEND:20250511T065900Z
+UID:tournament-768954@nextbracket
+DESCRIPTION:Attendees: 12\nEvents: Melee Singles\nRegistration Closed\nVie
+ w on start.gg: https://start.gg/tournament/busted-controllers-1
+LOCATION:437 Kentucky St\, San Luis Obispo\, CA 93405\, USA\, San Luis Obi
+ spo\, 3\, US
+URL:https://start.gg/tournament/busted-controllers-1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AL1C3'S SICK INVITATIONAL (Super Smash Bros. Melee)
+DTSTART:20250623T000000Z
+DTEND:20250623T050000Z
+UID:tournament-800572@nextbracket
+DESCRIPTION:Attendees: 8\nEvents: Melee Singles\nRegistration Closed\nView
+  on start.gg: https://start.gg/tournament/al1c3-s-sick-invitational
+LOCATION:927 Vista Cerro Dr\, Paso Robles\, CA 93446\, USA\, Paso Robles\,
+  3\, US
+URL:https://start.gg/tournament/al1c3-s-sick-invitational
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NO CONTEST: An AL1C3 Birthday Bash (Super Smash Bros. Melee)
+DTSTART:20230623T000000Z
+DTEND:20230623T060000Z
+UID:tournament-561400@nextbracket
+DESCRIPTION:Attendees: 8\nEvents: Melee Singles\nRegistration Closed\nView
+  on start.gg: https://start.gg/tournament/no-contest-an-al1c3-birthday-bas
+ h
+LOCATION:927 Vista Cerro Dr\, Paso Robles\, CA 93446\, USA\, Paso Robles\,
+  3\, US
+URL:https://start.gg/tournament/no-contest-an-al1c3-birthday-bash
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Smash House (Super Smash Bros. Melee)
