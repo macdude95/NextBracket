@@ -73,6 +73,7 @@ location:
 # Tournament admins - tournaments from these organizers included regardless of filters (UNION logic)
 admins:
   - '2821656' # Busted Controllers organizer
+  - '15246' # Bozion/Emerey Philippsen organizer
 
 # Date range - ± years from today (past & future)
 date_range_years: 1
