@@ -14,6 +14,7 @@ location:
 # Tournament admins - tournaments from these organizers included regardless of filters (UNION logic)
 admins:
   - '2821656' # Busted Controllers organizer (verified from tournament/busted-controllers-8)
+  - '15246' # Bozion/Emerey Philippsen (verified organizer of no-contest-an-al1c3-birthday-bash)
 
 # Date range - ± years from today (past & future)
 date_range_years: 1
