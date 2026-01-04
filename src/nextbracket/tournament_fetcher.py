@@ -135,20 +135,30 @@ class TournamentFetcher:
         else:
             print("Date range: No limit (all tournaments)")
 
-        main_tournaments = self.client.get_tournaments(
-            videogame_ids=videogame_ids,
-            after_date=after_date,
-            before_date=before_date,
-            per_page=100,  # Reasonable default for API pagination
-            **location_params,
-        )
+        # Fetch all pages for main criteria
+        main_tournaments = []
+        page = 1
+        while True:
+            page_tournaments = self.client.get_tournaments(
+                videogame_ids=videogame_ids,
+                after_date=after_date,
+                before_date=before_date,
+                per_page=100,  # Reasonable default for API pagination
+                page=page,
+                **location_params,
+            )
 
-        if main_tournaments is None:
-            print("Error: get_tournaments returned None for main criteria")
-            main_tournaments = []
+            if not page_tournaments:
+                break  # No more results
+
+            main_tournaments.extend(page_tournaments)
+            print(f"  Page {page}: {len(page_tournaments)} tournaments")
+            page += 1
 
         all_tournaments.extend(main_tournaments)
-        print(f"Found {len(main_tournaments)} tournaments from main criteria")
+        print(
+            f"Found {len(main_tournaments)} tournaments from main criteria (all pages)"
+        )
 
         # Step 2: Additionally fetch tournaments from specified owners (UNION)
         if owner_ids:
@@ -158,16 +168,43 @@ class TournamentFetcher:
 
             for owner_id in owner_ids:
                 print(f"Fetching tournaments from owner {owner_id}...")
-                owner_tournaments = self.client.get_tournaments(
-                    owner_ids=[owner_id],  # Only filter by this owner
-                    after_date=after_date,
-                    before_date=before_date,
-                    per_page=100,
-                    videogame_ids=None,  # Don't filter by games for owner tournaments
-                    # No location filters for owner tournaments
-                )
+                owner_tournaments = []
+                page = 1
+                while True:
+                    try:
+                        page_tournaments = self.client.get_tournaments(
+                            owner_ids=[owner_id],  # Only filter by this owner
+                            after_date=after_date,
+                            before_date=before_date,
+                            per_page=100,
+                            page=page,
+                            videogame_ids=None,  # Don't filter by games for owner tournaments
+                            # No location filters for owner tournaments
+                        )
+                    except Exception as e:
+                        if "429" in str(e) or "Too Many Requests" in str(e):
+                            print(
+                                f"Rate limited on page {page} for owner {owner_id}, stopping pagination"
+                            )
+                            break
+                        else:
+                            print(f"Error on page {page} for owner {owner_id}: {e}")
+                            break
+
+                    if not page_tournaments:
+                        break  # No more results
+
+                    owner_tournaments.extend(page_tournaments)
+                    print(f"  Page {page}: {len(page_tournaments)} tournaments")
+                    page += 1
+
+                    # Add small delay between requests to be respectful to the API
+                    import time
+
+                    time.sleep(0.1)
+
                 print(
-                    f"Found {len(owner_tournaments)} tournaments from owner {owner_id}"
+                    f"Found {len(owner_tournaments)} tournaments from owner {owner_id} (all pages)"
                 )
                 all_tournaments.extend(owner_tournaments)
 

@@ -1,0 +1,17 @@
+# SLO Ultimate Tournament Calendar Configuration
+
+# Games to filter by - only tournaments including these games
+games:
+  - id: 1386 # Super Smash Bros. Ultimate
+
+# Geographic filtering - tournaments within radius of center point
+location:
+  center:
+    latitude: 35.2828 # San Luis Obispo latitude
+    longitude: -120.6596 # San Luis Obispo longitude
+  radius: 50 # kilometers from center point
+
+# Calendar display settings
+calendar:
+  title: 'SLO Ultimate Tournaments'
+  description: 'Super Smash Bros. Ultimate tournaments in the San Luis Obispo area'
