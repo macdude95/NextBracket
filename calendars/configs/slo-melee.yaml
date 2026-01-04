@@ -13,8 +13,7 @@ location:
 
 # Tournament admins - tournaments from these organizers included regardless of filters (UNION logic)
 admins:
-  - '40c0c705' # Bust
-  - '18c410b7' # Bozion
+  - '2821656' # Busted Controllers organizer (verified from tournament/busted-controllers-8)
 
 # Date range - ± years from today (past & future)
 date_range_years: 1

@@ -72,8 +72,7 @@ location:
 
 # Tournament admins - tournaments from these organizers included regardless of filters (UNION logic)
 admins:
-  - '40c0c705' # Bust
-  - '18c410b7' # Bozion
+  - '2821656' # Busted Controllers organizer
 
 # Date range - ± years from today (past & future)
 date_range_years: 1
@@ -86,7 +85,7 @@ calendar:
 
 **Admin Behavior**: Admins use UNION logic - tournaments from specified admins are **added** to the calendar regardless of location/game filters. This ensures you never miss tournaments from your favorite organizers.
 
-⚠️ **Note**: Admin filtering is currently implemented but may have API compatibility issues. Core location/game/date filtering is fully operational.
+✅ **Admin filtering**: Working! Tournaments from specified organizers are included regardless of location filters (UNION logic).
 
 ## Development
 

@@ -188,6 +188,74 @@ class StartGGClient:
             print(f"Variables used: {variables}")
             return []
 
+    def get_tournament_details(self, tournament_slug: str) -> Dict:
+        """Get tournament details including owner information."""
+        query = """
+        query TournamentDetails($slug: String) {
+          tournament(slug: $slug) {
+            id
+            name
+            slug
+            owner {
+              id
+              name
+            }
+            events {
+              id
+              name
+              videogame {
+                id
+                name
+              }
+            }
+          }
+        }
+        """
+
+        try:
+            data = self._execute_query(query, {"slug": tournament_slug})
+            tournament = data.get("tournament", {})
+            return tournament
+        except Exception as e:
+            print(f"Error fetching tournament details for {tournament_slug}: {e}")
+            return {}
+
+    def get_event_standings(
+        self, event_id: str, page: int = 1, per_page: int = 50
+    ) -> List[Dict]:
+        """Get tournament standings to find user IDs."""
+        query = """
+        query EventStandings($eventId: ID!, $page: Int!, $perPage: Int!) {
+          event(id: $eventId) {
+            id
+            name
+            standings(query: {
+              perPage: $perPage,
+              page: $page
+            }){
+              nodes {
+                placement
+                entrant {
+                  id
+                  name
+                }
+              }
+            }
+          }
+        }
+        """
+
+        try:
+            data = self._execute_query(
+                query, {"eventId": event_id, "page": page, "perPage": per_page}
+            )
+            event = data.get("event", {})
+            standings = event.get("standings", {}).get("nodes", [])
+            return standings
+        except Exception as e:
+            print(f"Error fetching event standings for {event_id}: {e}")
+            return []
+
     def get_videogame_id(self, game_name: str) -> Optional[int]:
         """Get videogame ID by name. This may need adjustment based on actual API."""
         query = """
