@@ -118,27 +118,25 @@ class TournamentFetcher:
         location_params = self._get_location_params()
         filters = self.config.get("filters", {})
 
-        # Calculate date range - include past week to catch recently completed tournaments
-        days_ahead = filters.get("date_range_days", 90)
-        days_behind = filters.get(
-            "include_past_days", 7
-        )  # Include past week by default
+        # Calculate date range - symmetric window based on years
+        date_range_years = self.config.get("date_range_years", 1)  # Default to 1 year
+        days_range = date_range_years * 365  # Convert years to approximate days
         today_start = datetime.now().replace(hour=0, minute=0, second=0, microsecond=0)
-        after_date = int((today_start - timedelta(days=days_behind)).timestamp())
-        before_date = int((today_start + timedelta(days=days_ahead)).timestamp())
+        after_date = int((today_start - timedelta(days=days_range)).timestamp())
+        before_date = int((today_start + timedelta(days=days_range)).timestamp())
 
         all_tournaments = []
 
         # Step 1: Fetch tournaments based on location/game/date criteria
         print(f"Fetching tournaments for {len(videogame_ids)} games...")
         print(f"Location: {location_params}")
-        print(f"Date range: {days_ahead} days ahead")
+        print(f"Date range: ±{days_range} days from today")
 
         main_tournaments = self.client.get_tournaments(
             videogame_ids=videogame_ids,
             after_date=after_date,
             before_date=before_date,
-            per_page=min(filters.get("max_events", 50), 50),  # API limit
+            per_page=100,  # Reasonable default for API pagination
             **location_params,
         )
 
@@ -157,7 +155,7 @@ class TournamentFetcher:
                     owner_ids=[admin_id],  # Only filter by this admin
                     after_date=after_date,
                     before_date=before_date,
-                    per_page=min(filters.get("max_events", 50), 50),
+                    per_page=100,
                     # No location/game filters for admin tournaments
                 )
                 print(

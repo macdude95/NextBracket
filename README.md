@@ -75,11 +75,8 @@ admins:
   - '40c0c705' # Bust
   - '18c410b7' # Bozion
 
-# Filtering options
-filters:
-  date_range_days: 180 # look ahead this many days
-  max_events: 50 # maximum tournaments to fetch
-  include_past_days: 7 # include tournaments from this many days ago
+# Date range - ± years from today (past & future)
+date_range_years: 1
 
 # Calendar display settings
 calendar:
