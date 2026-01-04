@@ -70,8 +70,8 @@ location:
     longitude: -120.6596 # San Luis Obispo longitude
   radius: 50 # kilometers from center point
 
-# Tournament admins - tournaments from these organizers included regardless of filters (UNION logic)
-admins:
+# Tournament owners - tournaments from these organizers included regardless of filters (UNION logic)
+owners:
   - '2821656' # Busted Controllers organizer
   - '15246' # Bozion/Emerey Philippsen organizer
 
@@ -84,9 +84,9 @@ calendar:
   description: 'Upcoming Super Smash Bros. Melee tournaments in the San Luis Obispo area'
 ```
 
-**Admin Behavior**: Admins use UNION logic - tournaments from specified admins are **added** to the calendar regardless of location/game filters. This ensures you never miss tournaments from your favorite organizers.
+**Owner Behavior**: Owners use UNION logic - tournaments from specified owners are **added** to the calendar regardless of location/game filters. This ensures you never miss tournaments from your favorite organizers.
 
-✅ **Admin filtering**: Working! Tournaments from specified organizers are included regardless of location filters (UNION logic).
+✅ **Owner filtering**: Working! Tournaments from specified owners are included regardless of location filters (UNION logic).
 
 ## Development
 

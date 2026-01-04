@@ -11,8 +11,8 @@ location:
     longitude: -120.6596 # San Luis Obispo longitude
   radius: 50 # kilometers from center point
 
-# Tournament admins - tournaments from these organizers included regardless of filters (UNION logic)
-admins:
+# Tournament owners - tournaments created by these organizers included regardless of filters (UNION logic)
+owners:
   - '2821656' # Busted Controllers organizer (verified from tournament/busted-controllers-8)
   - '15246' # Bozion/Emerey Philippsen organizer (verified from no-contest-an-al1c3-birthday-bash)
 

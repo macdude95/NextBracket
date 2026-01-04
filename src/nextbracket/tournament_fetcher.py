@@ -79,17 +79,17 @@ class TournamentFetcher:
 
         return videogame_ids
 
-    def _get_admin_ids(self) -> List[str]:
-        """Extract admin IDs from config."""
-        admin_ids = []
+    def _get_owner_ids(self) -> List[str]:
+        """Extract owner IDs from config."""
+        owner_ids = []
 
-        for admin in self.config.get("admins", []):
-            if isinstance(admin, dict) and "id" in admin:
-                admin_ids.append(admin["id"])
-            elif isinstance(admin, str):
-                admin_ids.append(admin)
+        for owner in self.config.get("owners", []):
+            if isinstance(owner, dict) and "id" in owner:
+                owner_ids.append(owner["id"])
+            elif isinstance(owner, str):
+                owner_ids.append(owner)
 
-        return admin_ids
+        return owner_ids
 
     def _get_location_params(self) -> Dict:
         """Extract location parameters from config."""
@@ -114,7 +114,7 @@ class TournamentFetcher:
     def fetch_tournaments(self) -> List[Dict]:
         """Fetch tournaments based on configuration using UNION logic."""
         videogame_ids = self._get_videogame_ids()
-        admin_ids = self._get_admin_ids()
+        owner_ids = self._get_owner_ids()
         location_params = self._get_location_params()
         filters = self.config.get("filters", {})
 
@@ -154,26 +154,26 @@ class TournamentFetcher:
         all_tournaments.extend(main_tournaments)
         print(f"Found {len(main_tournaments)} tournaments from main criteria")
 
-        # Step 2: Additionally fetch tournaments from specified admins (UNION)
-        if admin_ids:
+        # Step 2: Additionally fetch tournaments from specified owners (UNION)
+        if owner_ids:
             print(
-                f"\nAdditionally fetching tournaments from {len(admin_ids)} admins: {admin_ids}"
+                f"\nAdditionally fetching tournaments from {len(owner_ids)} owners: {owner_ids}"
             )
 
-            for admin_id in admin_ids:
-                print(f"Fetching tournaments from admin {admin_id}...")
-                admin_tournaments = self.client.get_tournaments(
-                    owner_ids=[admin_id],  # Only filter by this admin
+            for owner_id in owner_ids:
+                print(f"Fetching tournaments from owner {owner_id}...")
+                owner_tournaments = self.client.get_tournaments(
+                    owner_ids=[owner_id],  # Only filter by this owner
                     after_date=after_date,
                     before_date=before_date,
                     per_page=100,
-                    videogame_ids=None,  # Don't filter by games for admin tournaments
-                    # No location filters for admin tournaments
+                    videogame_ids=None,  # Don't filter by games for owner tournaments
+                    # No location filters for owner tournaments
                 )
                 print(
-                    f"Found {len(admin_tournaments)} tournaments from admin {admin_id}"
+                    f"Found {len(owner_tournaments)} tournaments from owner {owner_id}"
                 )
-                all_tournaments.extend(admin_tournaments)
+                all_tournaments.extend(owner_tournaments)
 
         # Remove duplicates (in case admin tournaments also match main criteria)
         seen_ids = set()
