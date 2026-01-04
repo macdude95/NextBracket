@@ -2,25 +2,17 @@
 
 NextBracket is an open-source tool that collects tournament listings from start.gg and produces subscribe-ready calendar feeds so players can keep track of upcoming competitive events in their area.
 
-## 🗓️ Quick Subscribe
+## 🗓️ How do I subscribe to one of the existing calendars?
 
-**Subscribe to live tournament calendars in seconds!**
+You can subscribe to any of the generated calendars generated using your preferred calendar app. All calendar feeds can be found in the `calendars/feeds/` folder.
 
-### Example: SLO Melee Tournaments
-
-**This is an example calendar feed.** You can create your own custom calendar feeds by configuring different locations, games, and organizers.
-
-**Current Focus:** Super Smash Bros. Melee tournaments within 50km of San Luis Obispo
-
-**Subscribe in any calendar app:**
+**Example: SLO Melee Tournaments calendar feed - slo-melee.ics**
 
 ```
 webcal://raw.githubusercontent.com/macdude95/NextBracket/main/calendars/feeds/slo-melee.ics
 ```
 
 **Works with:** Google Calendar, Apple Calendar, Outlook, and most other calendar applications.
-
-**✨ Features:** Automatic daily updates • Tournament details • Direct start.gg links • Always current
 
 ---
 
@@ -33,26 +25,11 @@ webcal://raw.githubusercontent.com/macdude95/NextBracket/main/calendars/feeds/sl
 - **Daily Updates**: Automated GitHub Actions workflow keeps feeds current
 - **Configurable**: Easy JSON configuration for location, games, and filters
 
-## Quick Start
+## Dev Setup
 
 1. **Configure your preferences** in `calendars/configs/`
 2. **Set your start.gg API key** in GitHub repository secrets as `STARTGG_API_KEY`
 3. **Subscribe to the calendar** using the links below
-
-## Subscribe to Tournament Calendars
-
-Each calendar feed is available at its own URL. Currently available calendars:
-
-### SLO Melee Tournaments ✅
-
-**Focus:** Super Smash Bros. Melee tournaments within 300km of San Luis Obispo
-**Status:** Active - tournaments from 7 days ago through 180 days ahead loaded
-
-**Google Calendar:** [Add to Calendar](webcal://raw.githubusercontent.com/macdude95/NextBracket/main/calendars/feeds/slo-melee.ics)
-
-**Apple Calendar:** [Subscribe](webcal://raw.githubusercontent.com/macdude95/NextBracket/main/calendars/feeds/slo-melee.ics)
-
-**Other Apps:** Copy this URL: `https://raw.githubusercontent.com/macdude95/NextBracket/main/calendars/feeds/slo-melee.ics`
 
 ## Configuration
 
@@ -75,9 +52,6 @@ owners:
   - '2821656' # Busted Controllers organizer
   - '15246' # Bozion/Emerey Philippsen organizer
 
-# Date range - ± years from today (past & future)
-date_range_years: 1
-
 # Calendar display settings
 calendar:
   title: 'SLO Melee Tournaments'
@@ -85,8 +59,6 @@ calendar:
 ```
 
 **Owner Behavior**: Owners use UNION logic - tournaments from specified owners are **added** to the calendar regardless of location/game filters. This ensures you never miss tournaments from your favorite organizers.
-
-✅ **Owner filtering**: Working! Tournaments from specified owners are included regardless of location filters (UNION logic).
 
 ## Development
 
@@ -119,7 +91,7 @@ The repository includes automated daily updates via GitHub Actions:
 
 ## API Integration
 
-Built on start.gg's GraphQL API with support for:
+Built on [start.gg's GraphQL API](https://developer.start.gg/docs/intro) with support for:
 
 - Geographic filtering with coordinates and radius
 - Game-specific tournament queries
