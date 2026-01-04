@@ -118,19 +118,30 @@ class TournamentFetcher:
         location_params = self._get_location_params()
         filters = self.config.get("filters", {})
 
-        # Calculate date range - symmetric window based on years
-        date_range_years = self.config.get("date_range_years", 1)  # Default to 1 year
-        days_range = date_range_years * 365  # Convert years to approximate days
-        today_start = datetime.now().replace(hour=0, minute=0, second=0, microsecond=0)
-        after_date = int((today_start - timedelta(days=days_range)).timestamp())
-        before_date = int((today_start + timedelta(days=days_range)).timestamp())
+        # Calculate date range - symmetric window based on years (optional)
+        date_range_years = self.config.get("date_range_years")
+        if date_range_years is not None and date_range_years > 0:
+            days_range = date_range_years * 365  # Convert years to approximate days
+            today_start = datetime.now().replace(
+                hour=0, minute=0, second=0, microsecond=0
+            )
+            after_date = int((today_start - timedelta(days=days_range)).timestamp())
+            before_date = int((today_start + timedelta(days=days_range)).timestamp())
+        else:
+            # No date filtering - get all tournaments
+            after_date = None
+            before_date = None
+            days_range = 0
 
         all_tournaments = []
 
         # Step 1: Fetch tournaments based on location/game/date criteria
         print(f"Fetching tournaments for {len(videogame_ids)} games...")
         print(f"Location: {location_params}")
-        print(f"Date range: ±{days_range} days from today")
+        if days_range > 0:
+            print(f"Date range: ±{days_range} days from today")
+        else:
+            print("Date range: No limit (all tournaments)")
 
         main_tournaments = self.client.get_tournaments(
             videogame_ids=videogame_ids,
