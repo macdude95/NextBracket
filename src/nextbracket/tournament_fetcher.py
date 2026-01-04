@@ -27,33 +27,25 @@ class TournamentFetcher:
 
     def _load_config(self) -> Dict:
         """Load configuration from JSON or YAML file."""
-        if self.config_path and self.config_path.exists():
-            with open(self.config_path, "r") as f:
-                if self.config_path.suffix.lower() in [".yaml", ".yml"]:
-                    if HAS_YAML:
-                        return yaml.safe_load(f)
-                    else:
-                        raise ImportError("PyYAML is required for YAML config files")
+        if not self.config_path or not self.config_path.exists():
+            raise FileNotFoundError(
+                f"Configuration file not found: {self.config_path}\n"
+                "Please create a config file in calendars/configs/ with your desired settings.\n"
+                "See README.md for configuration examples."
+            )
+
+        with open(self.config_path, "r") as f:
+            if self.config_path.suffix.lower() in [".yaml", ".yml"]:
+                if HAS_YAML:
+                    return yaml.safe_load(f)
                 else:
-                    # Default to JSON for backward compatibility
-                    return json.load(f)
-        else:
-            # Default config for backward compatibility
-            return {
-                "location": {
-                    "type": "coordinates",
-                    "center": {"latitude": 35.2828, "longitude": -120.6596},
-                    "radius": 150,
-                    "radius_unit": "km",
-                },
-                "games": [{"name": "Super Smash Bros. Melee", "id": 1}],
-                "filters": {"date_range_days": 90, "max_events": 50},
-                "calendar": {
-                    "title": "SLO Melee Tournaments",
-                    "description": "Upcoming tournaments",
-                    "timezone": "America/Los_Angeles",
-                },
-            }
+                    raise ImportError(
+                        "PyYAML is required for YAML config files.\n"
+                        "Install with: pip install PyYAML"
+                    )
+            else:
+                # Default to JSON
+                return json.load(f)
 
     def _get_videogame_ids(self) -> List[int]:
         """Extract videogame IDs from config, resolving names if needed."""
