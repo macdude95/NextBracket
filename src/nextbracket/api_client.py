@@ -101,7 +101,7 @@ class StartGGClient:
 
         # Add owner filtering if provided (using correct API structure)
         if owner_ids:
-            filters["ownerId"] = owner_ids[0]  # API supports ownerId field
+            filters["ownerId"] = owner_ids[0]  # Use actual admin ID
             print(f"Filtering tournaments by owner: {owner_ids[0]}")
 
         # Use different query structure depending on whether we're filtering by owner or not
@@ -184,6 +184,8 @@ class StartGGClient:
             return tournaments
         except Exception as e:
             print(f"Error fetching tournaments: {e}")
+            print(f"Query used: {query[:100]}...")
+            print(f"Variables used: {variables}")
             return []
 
     def get_videogame_id(self, game_name: str) -> Optional[int]:
