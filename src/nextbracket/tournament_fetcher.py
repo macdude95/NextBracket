@@ -110,12 +110,6 @@ class TournamentFetcher:
         location_params = self._get_location_params()
         filters = self.config.get("filters", {})
 
-        # Debug: print what we got (remove in production)
-        # print(f"Debug - videogame_ids: {videogame_ids}")
-        # print(f"Debug - owner_ids: {owner_ids}")
-        # print(f"Debug - admin_ids: {admin_ids}")
-        # print(f"Debug - location_params: {location_params}")
-
         # Calculate date range - symmetric window based on years (optional)
         date_range_years = self.config.get("date_range_years")
         if date_range_years is not None and date_range_years > 0:
