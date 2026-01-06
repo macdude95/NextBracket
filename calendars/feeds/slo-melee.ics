@@ -5,6 +5,30 @@ DESCRIPTION:Upcoming Super Smash Bros. Melee tournaments in the San Luis O
  bispo area
 NAME:SLO Melee Tournaments
 BEGIN:VEVENT
+SUMMARY:Busted Controllers #10 (Super Smash Bros. Melee)
+DTSTART:20260114T030000Z
+DTEND:20260114T070000Z
+UID:tournament-866335@nextbracket
+DESCRIPTION:Attendees: 1\nEvents: Melee Singles\nView on start.gg: https:/
+ /start.gg/tournament/busted-controllers-10
+LOCATION:437 Kentucky St\, San Luis Obispo\, CA 93405\, USA\, San Luis Obi
+ spo\, 1\, US
+URL:https://start.gg/tournament/busted-controllers-10
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Busted Controllers ONLINE #5 - "Mom get off the phone\, I'm in a b
+ racket!" (Super Smash Bros. Melee)
+DTSTART:20260110T030000Z
+DTEND:20260110T075900Z
+UID:tournament-866353@nextbracket
+DESCRIPTION:Attendees: 1\nEvents: Melee Singles\nView on start.gg: https:/
+ /start.gg/tournament/busted-controllers-online-5-mom-get-off-the-phone-i-m
+ -in-a-bracket
+LOCATION:San Luis Obispo\, 1\, US
+URL:https://start.gg/tournament/busted-controllers-online-5-mom-get-off-th
+ e-phone-i-m-in-a-bracket
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Busted Controllers #9 (Super Smash Bros. Melee)
 DTSTART:20260103T220000Z
 DTEND:20260104T075900Z
