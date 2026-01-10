@@ -10,12 +10,22 @@ SUMMARY:LRA Start #27 @ BA Start Arcade and Taproom (Super Smash Bros. Mel
 DTSTART:20260131T223000Z
 DTEND:20260201T040000Z
 UID:tournament-868012@nextbracket
-DESCRIPTION:Attendees: 3\nEvents: Melee Singles\, Ultimate Singles\nView o
+DESCRIPTION:Attendees: 6\nEvents: Melee Singles\, Ultimate Singles\nView o
  n start.gg: https://start.gg/tournament/lra-start-27-ba-start-arcade-and-t
  aproom
 LOCATION:647 Higuera St\, San Luis Obispo\, CA 93401\, USA\, San Luis Obis
  po\, 1\, US
 URL:https://start.gg/tournament/lra-start-27-ba-start-arcade-and-taproom
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Busted Controllers ONLINE #6 (Super Smash Bros. Melee)
+DTSTART:20260117T030000Z
+DTEND:20260117T075900Z
+UID:tournament-868444@nextbracket
+DESCRIPTION:Attendees: 1\nEvents: Melee Singles\nView on start.gg: https:/
+ /start.gg/tournament/busted-controllers-online-6
+LOCATION:San Luis Obispo\, 1\, US
+URL:https://start.gg/tournament/busted-controllers-online-6
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Busted Controllers #10 (Super Smash Bros. Melee)
@@ -34,8 +44,8 @@ SUMMARY:SloBroke REBORN! #89 (Super Smash Bros. Melee\, Super Smash Bros.
 DTSTART:20260110T230000Z
 DTEND:20260111T060000Z
 UID:tournament-867968@nextbracket
-DESCRIPTION:Attendees: 9\nEvents: Ultimate Singles\, Melee Singles\nView o
- n start.gg: https://start.gg/tournament/slobroke-reborn-89
+DESCRIPTION:Attendees: 27\nEvents: Ultimate Singles\, Melee Singles\nView 
+ on start.gg: https://start.gg/tournament/slobroke-reborn-89
 LOCATION:Baker Science\, San Luis Obispo\, CA 93407\, USA\, San Luis Obisp
  o\, 1\, US
 URL:https://start.gg/tournament/slobroke-reborn-89
@@ -46,9 +56,9 @@ SUMMARY:Busted Controllers ONLINE #5 - "Mom get off the phone\, I'm in a b
 DTSTART:20260110T030000Z
 DTEND:20260110T075900Z
 UID:tournament-866353@nextbracket
-DESCRIPTION:Attendees: 1\nEvents: Melee Singles\nView on start.gg: https:/
- /start.gg/tournament/busted-controllers-online-5-mom-get-off-the-phone-i-m
- -in-a-bracket
+DESCRIPTION:Attendees: 8\nEvents: Melee Singles\nRegistration Closed\nView
+  on start.gg: https://start.gg/tournament/busted-controllers-online-5-mom-
+ get-off-the-phone-i-m-in-a-bracket
 LOCATION:San Luis Obispo\, 1\, US
 URL:https://start.gg/tournament/busted-controllers-online-5-mom-get-off-th
  e-phone-i-m-in-a-bracket
