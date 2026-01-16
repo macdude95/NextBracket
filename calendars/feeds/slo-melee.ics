@@ -5,6 +5,19 @@ DESCRIPTION:Upcoming Super Smash Bros. Melee tournaments in the San Luis O
  bispo area
 NAME:SLO Melee Tournaments
 BEGIN:VEVENT
+SUMMARY:SLO Smash Arcadian: Winter 2026 (Super Smash Bros. Melee\, Super S
+ mash Bros. Ultimate)
+DTSTART:20260207T200000Z
+DTEND:20260208T060000Z
+UID:tournament-868738@nextbracket
+DESCRIPTION:Attendees: 7\nEvents: Ultimate Infused Doubles\, Melee Infused
+  Doubles\, Ultimate Singles\, Melee Singles\nView on start.gg: https://sta
+ rt.gg/tournament/slo-smash-arcadian-winter-2026
+LOCATION:Engineering IV\, San Luis Obispo\, CA 93407\, USA\, San Luis Obis
+ po\, 1\, US
+URL:https://start.gg/tournament/slo-smash-arcadian-winter-2026
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:LRA Start #27 @ BA Start Arcade and Taproom (Super Smash Bros. Mel
  ee\, Super Smash Bros. Ultimate)
 DTSTART:20260131T223000Z
@@ -16,6 +29,18 @@ DESCRIPTION:Attendees: 6\nEvents: Melee Singles\, Ultimate Singles\nView o
 LOCATION:647 Higuera St\, San Luis Obispo\, CA 93401\, USA\, San Luis Obis
  po\, 1\, US
 URL:https://start.gg/tournament/lra-start-27-ba-start-arcade-and-taproom
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SloBroke REBORN! #90 (Rivals of Aether II\, Super Smash Bros. Mele
+ e\, Super Smash Bros. Ultimate)
+DTSTART:20260117T230000Z
+DTEND:20260118T060000Z
+UID:tournament-870529@nextbracket
+DESCRIPTION:Attendees: 12\nEvents: Ultimate Singles\, Melee Singles\, Riva
+ ls 2\nView on start.gg: https://start.gg/tournament/slobroke-reborn-90
+LOCATION:Baker Science\, San Luis Obispo\, CA 93407\, USA\, San Luis Obisp
+ o\, 1\, US
+URL:https://start.gg/tournament/slobroke-reborn-90
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Busted Controllers ONLINE #6 (Super Smash Bros. Melee)
