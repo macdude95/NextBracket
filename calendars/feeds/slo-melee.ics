@@ -36,7 +36,7 @@ SUMMARY:SloBroke REBORN! #90 (Rivals of Aether II\, Super Smash Bros. Mele
 DTSTART:20260117T230000Z
 DTEND:20260118T060000Z
 UID:tournament-870529@nextbracket
-DESCRIPTION:Attendees: 12\nEvents: Ultimate Singles\, Melee Singles\, Riva
+DESCRIPTION:Attendees: 15\nEvents: Ultimate Singles\, Melee Singles\, Riva
  ls 2\nView on start.gg: https://start.gg/tournament/slobroke-reborn-90
 LOCATION:Baker Science\, San Luis Obispo\, CA 93407\, USA\, San Luis Obisp
  o\, 1\, US
@@ -47,21 +47,24 @@ SUMMARY:Busted Controllers ONLINE #6 (Super Smash Bros. Melee)
 DTSTART:20260117T030000Z
 DTEND:20260117T075900Z
 UID:tournament-868444@nextbracket
-DESCRIPTION:Attendees: 4\nEvents: Melee Singles\nView on start.gg: https:/
- /start.gg/tournament/busted-controllers-online-6
+DESCRIPTION:Attendees: 8\nEvents: Melee Singles\nRegistration Closed\nView
+  on start.gg: https://start.gg/tournament/busted-controllers-online-6
 LOCATION:San Luis Obispo\, 1\, US
 URL:https://start.gg/tournament/busted-controllers-online-6
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Busted Controllers #10 (Super Smash Bros. Melee)
+SUMMARY:Busted Controllers #10 - "Yoshi's Island is kinda like a toilet" (
+ Super Smash Bros. Melee)
 DTSTART:20260114T030000Z
 DTEND:20260114T070000Z
 UID:tournament-866335@nextbracket
 DESCRIPTION:Attendees: 15\nEvents: Melee Singles\nRegistration Closed\nVie
- w on start.gg: https://start.gg/tournament/busted-controllers-10
+ w on start.gg: https://start.gg/tournament/busted-controllers-10-yoshi-s-i
+ sland-is-kinda-like-a-toilet
 LOCATION:437 Kentucky St\, San Luis Obispo\, CA 93405\, USA\, San Luis Obi
  spo\, 3\, US
-URL:https://start.gg/tournament/busted-controllers-10
+URL:https://start.gg/tournament/busted-controllers-10-yoshi-s-island-is-ki
+ nda-like-a-toilet
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SloBroke REBORN! #89 (Super Smash Bros. Melee\, Super Smash Bros. 
