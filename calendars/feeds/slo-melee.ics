@@ -5,12 +5,34 @@ DESCRIPTION:Upcoming Super Smash Bros. Melee tournaments in the San Luis O
  bispo area
 NAME:SLO Melee Tournaments
 BEGIN:VEVENT
+SUMMARY:Busted Controllers #12 (Super Smash Bros. Melee)
+DTSTART:20260311T020000Z
+DTEND:20260311T065900Z
+UID:tournament-871067@nextbracket
+DESCRIPTION:Attendees: 1\nEvents: Melee Singles\nView on start.gg: https:/
+ /start.gg/tournament/busted-controllers-12
+LOCATION:437 Kentucky St\, San Luis Obispo\, CA 93405\, USA\, San Luis Obi
+ spo\, 1\, US
+URL:https://start.gg/tournament/busted-controllers-12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Busted Controllers #11 (Super Smash Bros. Melee)
+DTSTART:20260225T030000Z
+DTEND:20260225T075900Z
+UID:tournament-871065@nextbracket
+DESCRIPTION:Events: Melee Singles\nView on start.gg: https://start.gg/tour
+ nament/busted-controllers-11
+LOCATION:437 Kentucky St\, San Luis Obispo\, CA 93405\, USA\, San Luis Obi
+ spo\, 1\, US
+URL:https://start.gg/tournament/busted-controllers-11
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:SLO Smash Arcadian: Winter 2026 (Super Smash Bros. Melee\, Super S
  mash Bros. Ultimate)
 DTSTART:20260207T200000Z
 DTEND:20260208T060000Z
 UID:tournament-868738@nextbracket
-DESCRIPTION:Attendees: 7\nEvents: Ultimate Infused Doubles\, Melee Infused
+DESCRIPTION:Attendees: 8\nEvents: Ultimate Infused Doubles\, Melee Infused
   Doubles\, Ultimate Singles\, Melee Singles\nView on start.gg: https://sta
  rt.gg/tournament/slo-smash-arcadian-winter-2026
 LOCATION:Engineering IV\, San Luis Obispo\, CA 93407\, USA\, San Luis Obis
@@ -31,13 +53,26 @@ LOCATION:647 Higuera St\, San Luis Obispo\, CA 93401\, USA\, San Luis Obis
 URL:https://start.gg/tournament/lra-start-27-ba-start-arcade-and-taproom
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Busted Controllers ONLINE #7 - "What # is before 7" (Super Smash B
+ ros. Melee)
+DTSTART:20260124T030000Z
+DTEND:20260124T075900Z
+UID:tournament-871061@nextbracket
+DESCRIPTION:Attendees: 1\nEvents: Melee Singles\nView on start.gg: https:/
+ /start.gg/tournament/busted-controllers-online-7-what-is-before-7
+LOCATION:San Luis Obispo\, 1\, US
+URL:https://start.gg/tournament/busted-controllers-online-7-what-is-before
+ -7
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:SloBroke REBORN! #90 (Rivals of Aether II\, Super Smash Bros. Mele
  e\, Super Smash Bros. Ultimate)
 DTSTART:20260117T230000Z
 DTEND:20260118T060000Z
 UID:tournament-870529@nextbracket
-DESCRIPTION:Attendees: 15\nEvents: Ultimate Singles\, Melee Singles\, Riva
- ls 2\nView on start.gg: https://start.gg/tournament/slobroke-reborn-90
+DESCRIPTION:Attendees: 26\nEvents: Rivals 2\, Ultimate Singles\, Melee Sin
+ gles\nRegistration Closed\nView on start.gg: https://start.gg/tournament/s
+ lobroke-reborn-90
 LOCATION:Baker Science\, San Luis Obispo\, CA 93407\, USA\, San Luis Obisp
  o\, 1\, US
 URL:https://start.gg/tournament/slobroke-reborn-90
@@ -49,7 +84,7 @@ DTEND:20260117T075900Z
 UID:tournament-868444@nextbracket
 DESCRIPTION:Attendees: 8\nEvents: Melee Singles\nRegistration Closed\nView
   on start.gg: https://start.gg/tournament/busted-controllers-online-6
-LOCATION:San Luis Obispo\, 1\, US
+LOCATION:San Luis Obispo\, 3\, US
 URL:https://start.gg/tournament/busted-controllers-online-6
 END:VEVENT
 BEGIN:VEVENT
