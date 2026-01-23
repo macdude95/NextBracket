@@ -45,7 +45,7 @@ SUMMARY:LRA Start #27 @ BA Start Arcade and Taproom (Super Smash Bros. Mel
 DTSTART:20260131T223000Z
 DTEND:20260201T040000Z
 UID:tournament-868012@nextbracket
-DESCRIPTION:Attendees: 6\nEvents: Melee Singles\, Ultimate Singles\nView o
+DESCRIPTION:Attendees: 8\nEvents: Melee Singles\, Ultimate Singles\nView o
  n start.gg: https://start.gg/tournament/lra-start-27-ba-start-arcade-and-t
  aproom
 LOCATION:647 Higuera St\, San Luis Obispo\, CA 93401\, USA\, San Luis Obis
@@ -53,12 +53,24 @@ LOCATION:647 Higuera St\, San Luis Obispo\, CA 93401\, USA\, San Luis Obis
 URL:https://start.gg/tournament/lra-start-27-ba-start-arcade-and-taproom
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:SloBroke REBORN! #91 (Rivals of Aether II\, Super Smash Bros. Mele
+ e\, Super Smash Bros. Ultimate)
+DTSTART:20260124T230000Z
+DTEND:20260125T060000Z
+UID:tournament-872910@nextbracket
+DESCRIPTION:Attendees: 16\nEvents: Ultimate Singles\, Rivals 2\, Melee Sin
+ gles\nView on start.gg: https://start.gg/tournament/slobroke-reborn-91
+LOCATION:Baker Science\, San Luis Obispo\, CA 93407\, USA\, San Luis Obisp
+ o\, 1\, US
+URL:https://start.gg/tournament/slobroke-reborn-91
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Busted Controllers ONLINE #7 - "What # is before 7" (Super Smash B
  ros. Melee)
 DTSTART:20260124T030000Z
 DTEND:20260124T075900Z
 UID:tournament-871061@nextbracket
-DESCRIPTION:Attendees: 2\nEvents: Melee Singles\nView on start.gg: https:/
+DESCRIPTION:Attendees: 3\nEvents: Melee Singles\nView on start.gg: https:/
  /start.gg/tournament/busted-controllers-online-7-what-is-before-7
 LOCATION:San Luis Obispo\, 1\, US
 URL:https://start.gg/tournament/busted-controllers-online-7-what-is-before
