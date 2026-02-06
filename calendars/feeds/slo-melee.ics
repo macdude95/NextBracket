@@ -40,12 +40,24 @@ LOCATION:Julian A. McPhee University Union\, San Luis Obispo\, CA 93407\,
 URL:https://start.gg/tournament/ups-13-freight-forwarded-300-pot-bonus
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:SloBroke REBORN! #93 (Super Smash Bros. Melee\, Super Smash Bros. 
+ Ultimate)
+DTSTART:20260211T020000Z
+DTEND:20260211T060000Z
+UID:tournament-878328@nextbracket
+DESCRIPTION:Attendees: 1\nEvents: Ultimate Singles\, Melee Singles\nView o
+ n start.gg: https://start.gg/tournament/slobroke-reborn-93
+LOCATION:Engineering IV\, San Luis Obispo\, CA 93407\, USA\, San Luis Obis
+ po\, 1\, US
+URL:https://start.gg/tournament/slobroke-reborn-93
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:SLO Smash Arcadian: Winter 2026 (Super Smash Bros. Melee\, Super S
  mash Bros. Ultimate)
 DTSTART:20260207T200000Z
 DTEND:20260208T060000Z
 UID:tournament-868738@nextbracket
-DESCRIPTION:Attendees: 34\nEvents: Ultimate Infused Doubles\, Melee Infuse
+DESCRIPTION:Attendees: 39\nEvents: Ultimate Infused Doubles\, Melee Infuse
  d Doubles\, Ultimate Singles\, Melee Singles\nView on start.gg: https://st
  art.gg/tournament/slo-smash-arcadian-winter-2026
 LOCATION:Engineering IV\, San Luis Obispo\, CA 93407\, USA\, San Luis Obis
