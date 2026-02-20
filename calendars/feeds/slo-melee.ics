@@ -5,6 +5,21 @@ DESCRIPTION:Upcoming Super Smash Bros. Melee tournaments in the San Luis O
  bispo area
 NAME:SLO Melee Tournaments
 BEGIN:VEVENT
+SUMMARY:Stable Connection - $1000+ Pot Bonus (Guilty Gear: Strive\, Rivals
+  of Aether\, Rivals of Aether II\, Street Fighter 6\, Super Smash Bros. Me
+ lee\, Super Smash Bros. Ultimate)
+DTSTART:20260404T190000Z
+DTEND:20260405T060000Z
+UID:tournament-882343@nextbracket
+DESCRIPTION:Attendees: 3\nEvents: Melee Singles\, Rivals of Aether Singles
+ \, Ultimate Singles\, Guilty Gear: Strive\, Rivals II Singles\, Street Fig
+ hter 6\nView on start.gg: https://start.gg/tournament/stable-connection-10
+ 00-pot-bonus
+LOCATION:Julian A. McPhee University Union\, San Luis Obispo\, CA 93407\, 
+ USA\, San Luis Obispo\, 1\, US
+URL:https://start.gg/tournament/stable-connection-1000-pot-bonus
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Busted Controllers #12 (Super Smash Bros. Melee)
 DTSTART:20260311T020000Z
 DTEND:20260311T065900Z
@@ -32,7 +47,7 @@ SUMMARY:UPS 13: Freight Forwarded $500+ Pot Bonus (Project+\, Rivals of Ae
 DTSTART:20260221T200000Z
 DTEND:20260222T060000Z
 UID:tournament-876773@nextbracket
-DESCRIPTION:Attendees: 53\nEvents: Ultimate RanDubs\, Project+\, Ultimate 
+DESCRIPTION:Attendees: 57\nEvents: Ultimate RanDubs\, Project+\, Ultimate 
  Singles\, Rivals II Singles\, Melee Singles\nView on start.gg: https://sta
  rt.gg/tournament/ups-13-freight-forwarded-500-pot-bonus
 LOCATION:Julian A. McPhee University Union\, San Luis Obispo\, CA 93407\, 
@@ -45,7 +60,7 @@ SUMMARY:SloBroke REBORN #94 - UPS 13 PreLocal (Project+\, Super Smash Bros
 DTSTART:20260221T020000Z
 DTEND:20260221T070000Z
 UID:tournament-882876@nextbracket
-DESCRIPTION:Attendees: 3\nEvents: Ultimate Singles\, Melee Singles\, Proje
+DESCRIPTION:Attendees: 9\nEvents: Ultimate Singles\, Melee Singles\, Proje
  ct+\nView on start.gg: https://start.gg/tournament/slobroke-reborn-94-ups-
  13-prelocal
 LOCATION:Julian A. McPhee University Union\, San Luis Obispo\, CA 93407\, 
