@@ -11,7 +11,7 @@ SUMMARY:Stable Connection - $1000+ Pot Bonus (Guilty Gear: Strive\, Rivals
 DTSTART:20260404T190000Z
 DTEND:20260405T060000Z
 UID:tournament-882343@nextbracket
-DESCRIPTION:Attendees: 8\nEvents: Ultimate Singles\, Rivals of Aether Sing
+DESCRIPTION:Attendees: 9\nEvents: Rivals of Aether Singles\, Ultimate Sing
  les\, Melee Singles\, Guilty Gear: Strive\, Rivals II Singles\, Street Fig
  hter 6\nView on start.gg: https://start.gg/tournament/stable-connection-10
  00-pot-bonus
@@ -42,17 +42,17 @@ LOCATION:437 Kentucky St\, San Luis Obispo\, CA 93405\, USA\, San Luis Obi
 URL:https://start.gg/tournament/busted-controllers-11
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:UPS 13: Freight Forwarded $500+ Pot Bonus (Project+\, Rivals of Ae
- ther II\, Super Smash Bros. Melee\, Super Smash Bros. Ultimate)
+SUMMARY:UPS 13: Freight Forwarded (Project+\, Rivals of Aether II\, Super 
+ Smash Bros. Melee\, Super Smash Bros. Ultimate)
 DTSTART:20260221T200000Z
 DTEND:20260222T060000Z
 UID:tournament-876773@nextbracket
 DESCRIPTION:Attendees: 67\nEvents: Ultimate RanDubs\, Project+\, Ultimate 
- Singles\, Rivals II Singles\, Melee Singles\nView on start.gg: https://sta
- rt.gg/tournament/ups-13-freight-forwarded-500-pot-bonus
+ Singles\, Rivals II Singles\, Melee Singles\nRegistration Closed\nView on 
+ start.gg: https://start.gg/tournament/ups-13-freight-forwarded
 LOCATION:Julian A. McPhee University Union\, San Luis Obispo\, CA 93407\, 
  USA\, San Luis Obispo\, 1\, US
-URL:https://start.gg/tournament/ups-13-freight-forwarded-500-pot-bonus
+URL:https://start.gg/tournament/ups-13-freight-forwarded
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SloBroke REBORN #94 - UPS 13 PreLocal (Project+\, Super Smash Bros
@@ -64,7 +64,7 @@ DESCRIPTION:Attendees: 27\nEvents: Ultimate Singles\, Melee Singles\, Proj
  ect+\nRegistration Closed\nView on start.gg: https://start.gg/tournament/s
  lobroke-reborn-94-ups-13-prelocal
 LOCATION:Julian A. McPhee University Union\, San Luis Obispo\, CA 93407\, 
- USA\, San Luis Obispo\, 1\, US
+ USA\, San Luis Obispo\, 3\, US
 URL:https://start.gg/tournament/slobroke-reborn-94-ups-13-prelocal
 END:VEVENT
 BEGIN:VEVENT
