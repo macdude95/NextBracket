@@ -11,7 +11,7 @@ SUMMARY:Stable Connection - $1000+ Pot Bonus (Guilty Gear: Strive\, Rivals
 DTSTART:20260404T190000Z
 DTEND:20260405T060000Z
 UID:tournament-882343@nextbracket
-DESCRIPTION:Attendees: 24\nEvents: Ultimate Singles\, Rivals of Aether Sin
+DESCRIPTION:Attendees: 26\nEvents: Ultimate Singles\, Rivals of Aether Sin
  gles\, Melee Singles\, Guilty Gear: Strive\, Rivals II Singles\, Street Fi
  ghter 6\nView on start.gg: https://start.gg/tournament/stable-connection-1
  000-pot-bonus
@@ -31,6 +31,17 @@ LOCATION:437 Kentucky St\, San Luis Obispo\, CA 93405\, USA\, San Luis Obi
 URL:https://start.gg/tournament/busted-controllers-12
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:SLOaded #9 (Super Smash Bros. Melee\, Super Smash Bros. Ultimate)
+DTSTART:20260228T220000Z
+DTEND:20260301T060000Z
+UID:tournament-885359@nextbracket
+DESCRIPTION:Attendees: 9\nEvents: Melee Singles\, Ultimate Singles\nView o
+ n start.gg: https://start.gg/tournament/sloaded-9
+LOCATION:Engineering IV\, San Luis Obispo\, CA 93407\, USA\, San Luis Obis
+ po\, 1\, US
+URL:https://start.gg/tournament/sloaded-9
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Busted Controllers #11 (Super Smash Bros. Melee)
 DTSTART:20260225T030000Z
 DTEND:20260225T075900Z
@@ -38,7 +49,7 @@ UID:tournament-871065@nextbracket
 DESCRIPTION:Attendees: 14\nEvents: Melee Singles\nRegistration Closed\nVie
  w on start.gg: https://start.gg/tournament/busted-controllers-11
 LOCATION:437 Kentucky St\, San Luis Obispo\, CA 93405\, USA\, San Luis Obi
- spo\, 1\, US
+ spo\, 3\, US
 URL:https://start.gg/tournament/busted-controllers-11
 END:VEVENT
 BEGIN:VEVENT
