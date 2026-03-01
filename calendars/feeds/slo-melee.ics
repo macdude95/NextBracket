@@ -11,7 +11,7 @@ SUMMARY:Stable Connection - $1000+ Pot Bonus (Guilty Gear: Strive\, Rivals
 DTSTART:20260404T190000Z
 DTEND:20260405T060000Z
 UID:tournament-882343@nextbracket
-DESCRIPTION:Attendees: 27\nEvents: Ultimate Singles\, Melee Singles\, Riva
+DESCRIPTION:Attendees: 28\nEvents: Ultimate Singles\, Melee Singles\, Riva
  ls of Aether Singles\, Guilty Gear: Strive\, Rivals II Singles\, Street Fi
  ghter 6\nView on start.gg: https://start.gg/tournament/stable-connection-1
  000-pot-bonus
@@ -31,15 +31,17 @@ LOCATION:437 Kentucky St\, San Luis Obispo\, CA 93405\, USA\, San Luis Obi
 URL:https://start.gg/tournament/busted-controllers-12
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SLOaded #9 (Super Smash Bros. Melee\, Super Smash Bros. Ultimate)
+SUMMARY:SLOaded #9: Fried and SLOaded (Super Smash Bros. Melee\, Super Sma
+ sh Bros. Ultimate)
 DTSTART:20260228T220000Z
 DTEND:20260301T060000Z
 UID:tournament-885359@nextbracket
-DESCRIPTION:Attendees: 20\nEvents: Melee Singles\, Ultimate Singles\nView 
- on start.gg: https://start.gg/tournament/sloaded-9
+DESCRIPTION:Attendees: 32\nEvents: Ultimate Singles\, Melee Singles\nRegis
+ tration Closed\nView on start.gg: https://start.gg/tournament/sloaded-9-fr
+ ied-and-sloaded
 LOCATION:Engineering IV\, San Luis Obispo\, CA 93407\, USA\, San Luis Obis
  po\, 1\, US
-URL:https://start.gg/tournament/sloaded-9
+URL:https://start.gg/tournament/sloaded-9-fried-and-sloaded
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Busted Controllers ONLINE #9 (Super Smash Bros. Melee)
@@ -48,7 +50,7 @@ DTEND:20260228T075900Z
 UID:tournament-886119@nextbracket
 DESCRIPTION:Attendees: 12\nEvents: Melee Singles\nRegistration Closed\nVie
  w on start.gg: https://start.gg/tournament/busted-controllers-online-9-1
-LOCATION:San Luis Obispo\, 1\, US
+LOCATION:San Luis Obispo\, 3\, US
 URL:https://start.gg/tournament/busted-controllers-online-9-1
 END:VEVENT
 BEGIN:VEVENT
