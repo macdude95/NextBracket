@@ -5,6 +5,18 @@ DESCRIPTION:Super Smash Bros. Ultimate tournaments in the San Luis Obispo
  area
 NAME:SLO Ultimate Tournaments
 BEGIN:VEVENT
+SUMMARY:SLO Smash Arcadian: Spring 2026 (Super Smash Bros. Ultimate)
+DTSTART:20260418T190000Z
+DTEND:20260419T050000Z
+UID:tournament-899684@nextbracket
+DESCRIPTION:Attendees: 5\nEvents: Ultimate Infused Doubles\, Ultimate Sing
+ les\nView on start.gg: https://start.gg/tournament/slo-smash-arcadian-spri
+ ng-2026
+LOCATION:Engineering IV\, San Luis Obispo\, CA 93407\, USA\, San Luis Obis
+ po\, 1\, US
+URL:https://start.gg/tournament/slo-smash-arcadian-spring-2026
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Stable Connection (Guilty Gear: Strive\, Rivals of Aether\, Rivals
   of Aether II\, Street Fighter 6\, Super Smash Bros. Melee\, Super Smash B
  ros. Ultimate)
