@@ -5,11 +5,23 @@ DESCRIPTION:Super Smash Bros. Ultimate tournaments in the San Luis Obispo
  area
 NAME:SLO Ultimate Tournaments
 BEGIN:VEVENT
+SUMMARY:LRA Start #29 @ BA Start Arcade and Taproom (Super Smash Bros. Mel
+ ee\, Super Smash Bros. Ultimate)
+DTSTART:20260425T213000Z
+DTEND:20260426T030000Z
+UID:tournament-902988@nextbracket
+DESCRIPTION:Events: Melee Singles\, Ultimate Singles\nView on start.gg: ht
+ tps://start.gg/tournament/lra-start-29-ba-start-arcade-and-taproom
+LOCATION:647 Higuera St\, San Luis Obispo\, CA 93401\, USA\, San Luis Obis
+ po\, 1\, US
+URL:https://start.gg/tournament/lra-start-29-ba-start-arcade-and-taproom
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:SLO Smash Arcadian: Spring 2026 (Super Smash Bros. Ultimate)
 DTSTART:20260418T190000Z
 DTEND:20260419T050000Z
 UID:tournament-899684@nextbracket
-DESCRIPTION:Attendees: 10\nEvents: Ultimate Infused Doubles\, Ultimate Sin
+DESCRIPTION:Attendees: 11\nEvents: Ultimate Infused Doubles\, Ultimate Sin
  gles\nView on start.gg: https://start.gg/tournament/slo-smash-arcadian-spr
  ing-2026
 LOCATION:Engineering IV\, San Luis Obispo\, CA 93407\, USA\, San Luis Obis
