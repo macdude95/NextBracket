@@ -5,16 +5,41 @@ DESCRIPTION:Upcoming Super Smash Bros. Melee tournaments in the San Luis O
  bispo area
 NAME:SLO Melee Tournaments
 BEGIN:VEVENT
+SUMMARY:SloBroke REBORN! #97 (Project+\, Super Smash Bros. Melee\, Super S
+ mash Bros. Ultimate)
+DTSTART:20260502T210000Z
+DTEND:20260503T050000Z
+UID:tournament-904602@nextbracket
+DESCRIPTION:Events: Project+\, Ultimate Singles\, Melee Singles\nView on s
+ tart.gg: https://start.gg/tournament/slobroke-reborn-97
+LOCATION:Engineering IV\, San Luis Obispo\, CA 93407\, USA\, San Luis Obis
+ po\, 1\, US
+URL:https://start.gg/tournament/slobroke-reborn-97
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:LRA Start #29 @ BA Start Arcade and Taproom (Super Smash Bros. Mel
  ee\, Super Smash Bros. Ultimate)
 DTSTART:20260425T213000Z
 DTEND:20260426T030000Z
 UID:tournament-902988@nextbracket
-DESCRIPTION:Events: Melee Singles\, Ultimate Singles\nView on start.gg: ht
- tps://start.gg/tournament/lra-start-29-ba-start-arcade-and-taproom
+DESCRIPTION:Attendees: 2\nEvents: Melee Singles\, Ultimate Singles\nView o
+ n start.gg: https://start.gg/tournament/lra-start-29-ba-start-arcade-and-t
+ aproom
 LOCATION:647 Higuera St\, San Luis Obispo\, CA 93401\, USA\, San Luis Obis
  po\, 1\, US
 URL:https://start.gg/tournament/lra-start-29-ba-start-arcade-and-taproom
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SloBroke REBORN! #96 (Super Smash Bros. Melee\, Super Smash Bros. 
+ Ultimate)
+DTSTART:20260422T010000Z
+DTEND:20260422T050000Z
+UID:tournament-904587@nextbracket
+DESCRIPTION:Attendees: 8\nEvents: Ultimate Singles\, Melee Singles\nView o
+ n start.gg: https://start.gg/tournament/slobroke-reborn-96
+LOCATION:Engineering IV\, San Luis Obispo\, CA 93407\, USA\, San Luis Obis
+ po\, 1\, US
+URL:https://start.gg/tournament/slobroke-reborn-96
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stable Connection (Guilty Gear: Strive\, Rivals of Aether\, Rivals
@@ -2539,6 +2564,16 @@ DESCRIPTION:Attendees: 138\nEvents: Wii U Singles\, Wii U Doubles\, Melee
  art.gg/tournament/the-dog-pound-3
 LOCATION:593 Oak St\, Santa Maria\, CA 93454\, USA\, Santa Maria\, 3\, US
 URL:https://start.gg/tournament/the-dog-pound-3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Busted Controllers ONLINE #12 (Super Smash Bros. Melee)
+DTSTART:20260425T023000Z
+DTEND:20260425T070000Z
+UID:tournament-904655@nextbracket
+DESCRIPTION:Events: Melee Singles\nView on start.gg: https://start.gg/tour
+ nament/busted-controllers-online-12
+LOCATION:1
+URL:https://start.gg/tournament/busted-controllers-online-12
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Busted Controllers ONLINE #11 (Super Smash Bros. Melee)
