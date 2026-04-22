@@ -5,13 +5,26 @@ DESCRIPTION:Upcoming Super Smash Bros. Melee tournaments in the San Luis O
  bispo area
 NAME:SLO Melee Tournaments
 BEGIN:VEVENT
+SUMMARY:SloBroke REBORN! #100: Regional! ($500 Pot Bonus) (Project+\, Riva
+ ls of Aether\, Super Smash Bros. Melee\, Super Smash Bros. Ultimate)
+DTSTART:20260516T190000Z
+DTEND:20260517T050000Z
+UID:tournament-904594@nextbracket
+DESCRIPTION:Attendees: 1\nEvents: Ultimate Randubs\, Project+ Singles\, Ul
+ timate Singles\, Rivals Of Aether Singles\, Melee Singles\nView on start.g
+ g: https://start.gg/tournament/slobroke-reborn-100-regional-500-pot-bonus
+LOCATION:Engineering IV\, San Luis Obispo\, CA 93407\, USA\, San Luis Obis
+ po\, 1\, US
+URL:https://start.gg/tournament/slobroke-reborn-100-regional-500-pot-bonus
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:SloBroke REBORN! #97 (Project+\, Super Smash Bros. Melee\, Super S
  mash Bros. Ultimate)
 DTSTART:20260502T210000Z
 DTEND:20260503T050000Z
 UID:tournament-904602@nextbracket
-DESCRIPTION:Events: Project+\, Ultimate Singles\, Melee Singles\nView on s
- tart.gg: https://start.gg/tournament/slobroke-reborn-97
+DESCRIPTION:Attendees: 1\nEvents: Project+\, Ultimate Singles\, Melee Sing
+ les\nView on start.gg: https://start.gg/tournament/slobroke-reborn-97
 LOCATION:Engineering IV\, San Luis Obispo\, CA 93407\, USA\, San Luis Obis
  po\, 1\, US
 URL:https://start.gg/tournament/slobroke-reborn-97
@@ -22,7 +35,7 @@ SUMMARY:LRA Start #29 @ BA Start Arcade and Taproom (Super Smash Bros. Mel
 DTSTART:20260425T213000Z
 DTEND:20260426T030000Z
 UID:tournament-902988@nextbracket
-DESCRIPTION:Attendees: 2\nEvents: Melee Singles\, Ultimate Singles\nView o
+DESCRIPTION:Attendees: 5\nEvents: Melee Singles\, Ultimate Singles\nView o
  n start.gg: https://start.gg/tournament/lra-start-29-ba-start-arcade-and-t
  aproom
 LOCATION:647 Higuera St\, San Luis Obispo\, CA 93401\, USA\, San Luis Obis
@@ -35,8 +48,9 @@ SUMMARY:SloBroke REBORN! #96 (Super Smash Bros. Melee\, Super Smash Bros.
 DTSTART:20260422T010000Z
 DTEND:20260422T050000Z
 UID:tournament-904587@nextbracket
-DESCRIPTION:Attendees: 8\nEvents: Ultimate Singles\, Melee Singles\nView o
- n start.gg: https://start.gg/tournament/slobroke-reborn-96
+DESCRIPTION:Attendees: 21\nEvents: Ultimate Singles\, Melee Singles\nRegis
+ tration Closed\nView on start.gg: https://start.gg/tournament/slobroke-reb
+ orn-96
 LOCATION:Engineering IV\, San Luis Obispo\, CA 93407\, USA\, San Luis Obis
  po\, 1\, US
 URL:https://start.gg/tournament/slobroke-reborn-96
