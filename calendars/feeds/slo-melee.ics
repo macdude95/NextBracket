@@ -18,6 +18,20 @@ LOCATION:647 Higuera St\, San Luis Obispo\, CA 93401\, USA\, San Luis Obis
 URL:https://start.gg/tournament/lra-start-30-ba-start-arcade-and-taproom
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:SloBroke REBORN! #101: Official GGCon Pre Local (Super Smash Bros.
+  Melee\, Super Smash Bros. Ultimate)
+DTSTART:20260523T011000Z
+DTEND:20260523T050000Z
+UID:tournament-914284@nextbracket
+DESCRIPTION:Attendees: 5\nEvents: Ultimate Singles\, Melee Singles\nView o
+ n start.gg: https://start.gg/tournament/slobroke-reborn-101-official-ggcon
+ -pre-local
+LOCATION:Engineering IV\, San Luis Obispo\, CA 93407\, USA\, San Luis Obis
+ po\, 1\, US
+URL:https://start.gg/tournament/slobroke-reborn-101-official-ggcon-pre-loc
+ al
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:SloBroke REBORN! #100! (Project+\, Rivals of Aether\, Super Smash 
  Bros. Melee\, Super Smash Bros. Ultimate)
 DTSTART:20260516T190000Z
