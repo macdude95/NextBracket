@@ -5,17 +5,44 @@ DESCRIPTION:Super Smash Bros. Ultimate tournaments in the San Luis Obispo
  area
 NAME:SLO Ultimate Tournaments
 BEGIN:VEVENT
-SUMMARY:SloBroke REBORN! #100: Regional! ($500 Pot Bonus) (Project+\, Riva
- ls of Aether\, Super Smash Bros. Melee\, Super Smash Bros. Ultimate)
+SUMMARY:LRA Start #30 @ BA Start Arcade and Taproom (Super Smash Bros. Mel
+ ee\, Super Smash Bros. Ultimate)
+DTSTART:20260530T213000Z
+DTEND:20260531T030000Z
+UID:tournament-913608@nextbracket
+DESCRIPTION:Attendees: 38\nEvents: Melee Singles\, Ultimate Singles\nRegis
+ tration Closed\nView on start.gg: https://start.gg/tournament/lra-start-30
+ -ba-start-arcade-and-taproom
+LOCATION:647 Higuera St\, San Luis Obispo\, CA 93401\, USA\, San Luis Obis
+ po\, 3\, US
+URL:https://start.gg/tournament/lra-start-30-ba-start-arcade-and-taproom
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SloBroke REBORN! #101: Official GGCon Pre Local (Super Smash Bros.
+  Melee\, Super Smash Bros. Ultimate)
+DTSTART:20260523T011000Z
+DTEND:20260523T050000Z
+UID:tournament-914284@nextbracket
+DESCRIPTION:Attendees: 21\nEvents: Ultimate Singles\, Melee Singles\nRegis
+ tration Closed\nView on start.gg: https://start.gg/tournament/slobroke-reb
+ orn-101-official-ggcon-pre-local
+LOCATION:Engineering IV\, San Luis Obispo\, CA 93407\, USA\, San Luis Obis
+ po\, 3\, US
+URL:https://start.gg/tournament/slobroke-reborn-101-official-ggcon-pre-loc
+ al
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SloBroke REBORN! #100! (Project+\, Rivals of Aether\, Super Smash 
+ Bros. Melee\, Super Smash Bros. Ultimate)
 DTSTART:20260516T190000Z
 DTEND:20260517T050000Z
 UID:tournament-904594@nextbracket
-DESCRIPTION:Attendees: 55\nEvents: Ultimate Doubles\, Project+ Singles\, U
- ltimate Singles\, Melee Singles\, Rivals Of Aether Singles\nView on start.
- gg: https://start.gg/tournament/slobroke-reborn-100-regional-500-pot-bonus
+DESCRIPTION:Attendees: 69\nEvents: Ultimate Doubles\, Project+ Singles\, U
+ ltimate Singles\, Melee Singles\, Rivals Of Aether Singles\nRegistration C
+ losed\nView on start.gg: https://start.gg/tournament/slobroke-reborn-100
 LOCATION:Engineering IV\, San Luis Obispo\, CA 93407\, USA\, San Luis Obis
- po\, 1\, US
-URL:https://start.gg/tournament/slobroke-reborn-100-regional-500-pot-bonus
+ po\, 3\, US
+URL:https://start.gg/tournament/slobroke-reborn-100
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SloBroke REBORN! #99 (Super Smash Bros. Melee\, Super Smash Bros. 
