@@ -2666,14 +2666,4 @@ DESCRIPTION:Attendees: 7\nEvents: Melee Singles\nRegistration Closed\nView
 LOCATION:3
 URL:https://start.gg/tournament/busted-controllers-online-11
 END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Smash House (Super Smash Bros. Melee)
-DTSTART:20190309T031500Z
-DTEND:20190309T075900Z
-UID:tournament-143524@nextbracket
-DESCRIPTION:Attendees: 10\nEvents: Melee Ladder\nRegistration Closed\nView
-  on start.gg: https://start.gg/tournament/the-smash-house
-LOCATION:124 Fir St NE\, Olympia\, WA 98506\, USA\, Olympia\, 3\, US
-URL:https://start.gg/tournament/the-smash-house
-END:VEVENT
 END:VCALENDAR
