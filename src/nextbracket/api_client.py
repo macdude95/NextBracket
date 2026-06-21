@@ -106,15 +106,13 @@ class StartGGClient:
 
         # Use different query structure depending on whether we're filtering by owner or not
         if owner_ids:
-            # Use simple owner query when only filtering by owner (no other filters)
-            # Based on user's working example
+            # Owner query with pagination and date filters
             query = """
-            query TournamentsByOwner($perPage: Int!, $ownerId: ID!) {
+            query($perPage: Int, $page: Int, $filter: TournamentPageFilter) {
                 tournaments(query: {
                   perPage: $perPage
-                  filter: {
-                    ownerId: $ownerId
-                  }
+                  page: $page
+                  filter: $filter
                 }) {
                 nodes {
                   id
@@ -141,7 +139,7 @@ class StartGGClient:
               }
             }
             """
-            variables = {"perPage": per_page, "ownerId": owner_ids[0]}
+            variables = {"perPage": per_page, "page": page, "filter": filters}
         else:
             # Use the standard TournamentPageFilter query for other filters
             query = """
@@ -219,6 +217,51 @@ class StartGGClient:
         except Exception as e:
             print(f"Error fetching tournament details for {tournament_slug}: {e}")
             return {}
+
+    def get_tournament_by_slug(self, slug: str) -> Optional[Dict]:
+        """Fetch a single tournament directly by slug with the full field set
+        used by the calendar generator.
+
+        This bypasses start.gg's search/list index, which intermittently omits
+        published tournaments: such events are invisible to the geo, ownerId
+        filter, and user.tournaments queries but remain reachable by direct slug
+        lookup. Returns the tournament node dict, or None if the slug does not
+        resolve to a tournament.
+        """
+        query = """
+        query($slug: String) {
+          tournament(slug: $slug) {
+            id
+            name
+            slug
+            startAt
+            endAt
+            timezone
+            venueAddress
+            city
+            state
+            countryCode
+            isRegistrationOpen
+            numAttendees
+            events {
+              id
+              name
+              videogame {
+                id
+                name
+              }
+            }
+          }
+        }
+        """
+
+        try:
+            data = self._execute_query(query, {"slug": slug})
+            # start.gg returns {"tournament": null} for a non-existent slug.
+            return data.get("tournament")
+        except Exception as e:
+            print(f"Error fetching tournament by slug {slug}: {e}")
+            return None
 
     def get_event_standings(
         self, event_id: str, page: int = 1, per_page: int = 50

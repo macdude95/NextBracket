@@ -83,6 +83,30 @@ class TournamentFetcher:
 
         return owner_ids
 
+    def _get_tournament_series(self) -> List[Dict]:
+        """Extract recurring-series slug patterns from config.
+
+        Each entry yields a dict {slug_base, max_iterations}. The fetcher probes
+        slugs "<slug_base>-<n>" for n in 1..max_iterations and fetches each
+        directly by slug, bypassing start.gg's search index (which intermittently
+        drops published tournaments from geo/owner results). Accepts either a
+        mapping with `slug_base`/`max_iterations` or a bare slug-base string.
+        """
+        series = []
+
+        for entry in self.config.get("tournament_series", []):
+            if isinstance(entry, dict) and "slug_base" in entry:
+                series.append(
+                    {
+                        "slug_base": entry["slug_base"],
+                        "max_iterations": entry.get("max_iterations", 12),
+                    }
+                )
+            elif isinstance(entry, str):
+                series.append({"slug_base": entry, "max_iterations": 12})
+
+        return series
+
     def _get_location_params(self) -> Dict:
         """Extract location parameters from config."""
         location = self.config.get("location", {})
@@ -207,6 +231,51 @@ class TournamentFetcher:
                     f"Found {len(owner_tournaments)} tournaments from owner {owner_id} (all pages)"
                 )
                 all_tournaments.extend(owner_tournaments)
+
+        # Step 3: Directly fetch recurring series by slug pattern (UNION).
+        # start.gg's search index intermittently omits published tournaments, so
+        # geo and owner queries can miss an entire local series even though the
+        # event is public and correctly geocoded. Probing predictable
+        # incrementing slugs and fetching each directly bypasses the broken index
+        # and auto-discovers future iterations without manual per-event config.
+        tournament_series = self._get_tournament_series()
+        if tournament_series:
+            import time
+
+            print(
+                f"\nAdditionally probing {len(tournament_series)} tournament series by slug pattern"
+            )
+
+            for series in tournament_series:
+                slug_base = series["slug_base"]
+                max_iterations = series["max_iterations"]
+                print(f"Probing series '{slug_base}' iterations 1..{max_iterations}")
+
+                series_found = 0
+                for n in range(1, max_iterations + 1):
+                    slug = f"tournament/{slug_base}-{n}"
+                    tournament = self.client.get_tournament_by_slug(slug)
+                    time.sleep(0.1)  # Be respectful to the API between probes
+
+                    if not tournament:
+                        continue
+
+                    # Respect the configured date window when one is set, so we
+                    # don't pull in long-past or far-future iterations.
+                    start_at = tournament.get("startAt")
+                    if (
+                        after_date is not None
+                        and before_date is not None
+                        and start_at is not None
+                        and not (after_date <= start_at <= before_date)
+                    ):
+                        continue
+
+                    all_tournaments.append(tournament)
+                    series_found += 1
+                    print(f"  Found {slug} -> {tournament.get('name')}")
+
+                print(f"Found {series_found} tournaments for series '{slug_base}'")
 
         # Remove duplicates (in case owner tournaments also match main criteria)
         seen_ids = set()

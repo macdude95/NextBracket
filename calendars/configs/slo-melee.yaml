@@ -15,6 +15,19 @@ location:
 owners:
   - '2821656' # Bust
   - '15246' # Bozion
+  - '244140' # Juno
+
+# Recurring tournament series fetched directly by slug pattern. Works around a
+# start.gg quirk where some published tournaments never enter the search index
+# and are therefore invisible to the geo and owner queries (e.g. "Don't Fall
+# Down The Stairs #1", id 910413). Each series probes slugs "<slug_base>-<n>"
+# for n in 1..max_iterations and fetches them directly.
+tournament_series:
+  - slug_base: 'don-t-fall-down-the-stairs' # Don't Fall Down The Stairs (Juno / Sera J.)
+    max_iterations: 12
+
+# Date range - fetch tournaments within ±N years of today
+date_range_years: 1
 
 # Calendar display settings
 calendar:
