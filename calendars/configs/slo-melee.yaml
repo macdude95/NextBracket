@@ -26,9 +26,6 @@ tournament_series:
   - slug_base: 'don-t-fall-down-the-stairs' # Don't Fall Down The Stairs (Juno / Sera J.)
     max_iterations: 12
 
-# Date range - fetch tournaments within ±N years of today
-date_range_years: 1
-
 # Calendar display settings
 calendar:
   title: 'SLO Melee Tournaments'
