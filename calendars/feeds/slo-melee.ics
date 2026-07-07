@@ -2695,7 +2695,18 @@ UID:tournament-925373@nextbracket
 DESCRIPTION:Attendees: 16\nEvents: Melee Singles\nRegistration Closed\nVie
  w on start.gg: https://start.gg/tournament/don-t-fall-down-the-stairs-2
 LOCATION:915 Madonna Rd #302\, San Luis Obispo\, CA 93405\, USA\, San Luis
-  Obispo\, 1\, US
+  Obispo\, 3\, US
 URL:https://start.gg/tournament/don-t-fall-down-the-stairs-2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Don't Fall Down The Stairs #3 (Super Smash Bros. Melee)
+DTSTART:20260711T220000Z
+DTEND:20260712T065900Z
+UID:tournament-930596@nextbracket
+DESCRIPTION:Attendees: 8\nEvents: Melee Singles\nView on start.gg: https:/
+ /start.gg/tournament/don-t-fall-down-the-stairs-3
+LOCATION:915 Madonna Rd #302\, San Luis Obispo\, CA 93405\, USA\, San Luis
+  Obispo\, 1\, US
+URL:https://start.gg/tournament/don-t-fall-down-the-stairs-3
 END:VEVENT
 END:VCALENDAR
