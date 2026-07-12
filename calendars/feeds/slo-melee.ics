@@ -2677,17 +2677,6 @@ LOCATION:124 Fir St NE\, Olympia\, WA 98506\, USA\, Olympia\, 3\, US
 URL:https://start.gg/tournament/the-smash-house
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Don't Fall Down The Stairs #1 (Super Smash Bros. Melee)
-DTSTART:20260613T220000Z
-DTEND:20260614T065900Z
-UID:tournament-910413@nextbracket
-DESCRIPTION:Attendees: 16\nEvents: Melee Singles\nRegistration Closed\nVie
- w on start.gg: https://start.gg/tournament/don-t-fall-down-the-stairs-1
-LOCATION:915 Madonna Rd #302\, San Luis Obispo\, CA 93405\, USA\, San Luis
-  Obispo\, 3\, US
-URL:https://start.gg/tournament/don-t-fall-down-the-stairs-1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Don't Fall Down The Stairs #2 (Super Smash Bros. Melee)
 DTSTART:20260705T220000Z
 DTEND:20260706T065800Z
@@ -2708,5 +2697,16 @@ DESCRIPTION:Attendees: 16\nEvents: Melee Singles\nRegistration Closed\nVie
 LOCATION:915 Madonna Rd #302\, San Luis Obispo\, CA 93405\, USA\, San Luis
   Obispo\, 1\, US
 URL:https://start.gg/tournament/don-t-fall-down-the-stairs-3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Don't Fall Down The Stairs #4 (Super Smash Bros. Melee)
+DTSTART:20260718T220000Z
+DTEND:20260719T065900Z
+UID:tournament-932318@nextbracket
+DESCRIPTION:Attendees: 6\nEvents: Melee Singles\nView on start.gg: https:/
+ /start.gg/tournament/don-t-fall-down-the-stairs-4
+LOCATION:915 Madonna Rd #302\, San Luis Obispo\, CA 93405\, USA\, San Luis
+  Obispo\, 1\, US
+URL:https://start.gg/tournament/don-t-fall-down-the-stairs-4
 END:VEVENT
 END:VCALENDAR
