@@ -14,7 +14,7 @@ DESCRIPTION:Attendees: 37\nEvents: Melee Singles\, Ultimate Singles\nRegis
  tration Closed\nView on start.gg: https://start.gg/tournament/lra-start-32
  -ba-start-arcade-and-taproom
 LOCATION:647 Higuera St\, San Luis Obispo\, CA 93401\, USA\, San Luis Obis
- po\, 1\, US
+ po\, 3\, US
 URL:https://start.gg/tournament/lra-start-32-ba-start-arcade-and-taproom
 END:VEVENT
 BEGIN:VEVENT
@@ -2660,6 +2660,16 @@ LOCATION:593 Oak St\, Santa Maria\, CA 93454\, USA\, Santa Maria\, 3\, US
 URL:https://start.gg/tournament/the-dog-pound-3
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Cheeto Finger Showdown #3 (Super Smash Bros. Melee)
+DTSTART:20260726T133000Z
+DTEND:20260727T050000Z
+UID:tournament-937084@nextbracket
+DESCRIPTION:Attendees: 15\nEvents: Melee Singles\nRegistration Closed\nVie
+ w on start.gg: https://start.gg/tournament/cheeto-finger-showdown-3
+LOCATION:2570 S Leonard Ave\, Sanger\, CA 93657\, USA\, Sanger\, 1\, US
+URL:https://start.gg/tournament/cheeto-finger-showdown-3
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Busted Controllers ONLINE #12 (Super Smash Bros. Melee)
 DTSTART:20260502T023000Z
 DTEND:20260502T070000Z
@@ -2738,8 +2748,8 @@ SUMMARY:Don't Fall Down The Stairs #5 (Super Smash Bros. Melee)
 DTSTART:20260801T220000Z
 DTEND:20260802T060000Z
 UID:tournament-934587@nextbracket
-DESCRIPTION:Attendees: 4\nEvents: Melee Singles\nView on start.gg: https:/
- /start.gg/tournament/don-t-fall-down-the-stairs-5
+DESCRIPTION:Attendees: 4\nEvents: Waitlist\, Melee Singles\nView on start.
+ gg: https://start.gg/tournament/don-t-fall-down-the-stairs-5
 LOCATION:915 Madonna Rd #302\, San Luis Obispo\, CA 93405\, USA\, San Luis
   Obispo\, 1\, US
 URL:https://start.gg/tournament/don-t-fall-down-the-stairs-5
