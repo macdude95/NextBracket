@@ -2755,4 +2755,15 @@ LOCATION:915 Madonna Rd #302\, San Luis Obispo\, CA 93405\, USA\, San Luis
   Obispo\, 3\, US
 URL:https://start.gg/tournament/don-t-fall-down-the-stairs-5
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Don’t Fall Down The Stairs #6 (Super Smash Bros. Melee)
+DTSTART:20260822T220000Z
+DTEND:20260823T060000Z
+UID:tournament-940162@nextbracket
+DESCRIPTION:Attendees: 2\nEvents: Waitlist\, Melee Singles\nView on start.
+ gg: https://start.gg/tournament/don-t-fall-down-the-stairs-6
+LOCATION:915 Madonna Rd #302\, San Luis Obispo\, CA 93405\, USA\, San Luis
+  Obispo\, 1\, US
+URL:https://start.gg/tournament/don-t-fall-down-the-stairs-6
+END:VEVENT
 END:VCALENDAR
