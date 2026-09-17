@@ -5,14 +5,27 @@ DESCRIPTION:Super Smash Bros. Ultimate tournaments in the San Luis Obispo
  area
 NAME:SLO Ultimate Tournaments
 BEGIN:VEVENT
+SUMMARY:LRA Start #34 @ BA Start Arcade and Taproom (Super Smash Bros. Mel
+ ee\, Super Smash Bros. Ultimate)
+DTSTART:20260926T213000Z
+DTEND:20260927T020000Z
+UID:tournament-954472@nextbracket
+DESCRIPTION:Attendees: 6\nEvents: Melee Singles\, Ultimate Singles\nView o
+ n start.gg: https://start.gg/tournament/lra-start-34-ba-start-arcade-and-t
+ aproom
+LOCATION:647 Higuera St\, San Luis Obispo\, CA 93401\, USA\, San Luis Obis
+ po\, 1\, US
+URL:https://start.gg/tournament/lra-start-34-ba-start-arcade-and-taproom
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:SloBroke REBORN! #104 (Rivals of Aether II\, Super Smash Bros. Mel
  ee\, Super Smash Bros. Ultimate)
 DTSTART:20260919T200000Z
 DTEND:20260920T040000Z
 UID:tournament-954134@nextbracket
-DESCRIPTION:Attendees: 2\nEvents: Ultimate Side Bracket\, Rivals II Single
- s\, Ultimate Singles\, Melee Singles\nView on start.gg: https://start.gg/t
- ournament/slobroke-reborn-104
+DESCRIPTION:Attendees: 14\nEvents: Ultimate Randubs\, Rivals II Singles\, 
+ Ultimate Singles\, Melee Singles\nView on start.gg: https://start.gg/tourn
+ ament/slobroke-reborn-104
 LOCATION:Baker Science\, San Luis Obispo\, CA 93407\, USA\, San Luis Obisp
  o\, 1\, US
 URL:https://start.gg/tournament/slobroke-reborn-104
