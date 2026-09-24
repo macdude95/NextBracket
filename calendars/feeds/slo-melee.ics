@@ -5,12 +5,25 @@ DESCRIPTION:Upcoming Super Smash Bros. Melee tournaments in the San Luis O
  bispo area
 NAME:SLO Melee Tournaments
 BEGIN:VEVENT
+SUMMARY:UPS 14: Junk Mail - $200 Pot Bonus! (Project+\, Rivals of Aether I
+ I\, Super Smash Bros. Melee\, Super Smash Bros. Ultimate)
+DTSTART:20261010T183000Z
+DTEND:20261011T050000Z
+UID:tournament-955254@nextbracket
+DESCRIPTION:Attendees: 12\nEvents: Ultimate Doubles\, Project+\, Ultimate 
+ Singles\, Melee Singles\, Rivals II Singles\nView on start.gg: https://sta
+ rt.gg/tournament/ups-14-junk-mail-200-pot-bonus
+LOCATION:Julian A. McPhee University Union\, San Luis Obispo\, CA 93407\, 
+ USA\, San Luis Obispo\, 1\, US
+URL:https://start.gg/tournament/ups-14-junk-mail-200-pot-bonus
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:LRA Start #34 @ BA Start Arcade and Taproom (Super Smash Bros. Mel
  ee\, Super Smash Bros. Ultimate)
 DTSTART:20260926T213000Z
 DTEND:20260927T020000Z
 UID:tournament-954472@nextbracket
-DESCRIPTION:Attendees: 13\nEvents: Melee Singles\, Ultimate Singles\nView 
+DESCRIPTION:Attendees: 15\nEvents: Melee Singles\, Ultimate Singles\nView 
  on start.gg: https://start.gg/tournament/lra-start-34-ba-start-arcade-and-
  taproom
 LOCATION:647 Higuera St\, San Luis Obispo\, CA 93401\, USA\, San Luis Obis
@@ -2843,5 +2856,16 @@ DESCRIPTION:Attendees: 14\nEvents: Waitlist\, Melee Singles\nRegistration
 LOCATION:915 Madonna Rd #302\, San Luis Obispo\, CA 93405\, USA\, San Luis
   Obispo\, 3\, US
 URL:https://start.gg/tournament/don-t-fall-down-the-stairs-6
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Don’t Fall Down The Stairs #7 (Super Smash Bros. Melee)
+DTSTART:20261003T220000Z
+DTEND:20261004T060000Z
+UID:tournament-957255@nextbracket
+DESCRIPTION:Events: Waitlist\, Melee Singles\nView on start.gg: https://st
+ art.gg/tournament/don-t-fall-down-the-stairs-7
+LOCATION:915 Madonna Rd #302\, San Luis Obispo\, CA 93405\, USA\, San Luis
+  Obispo\, 1\, US
+URL:https://start.gg/tournament/don-t-fall-down-the-stairs-7
 END:VEVENT
 END:VCALENDAR

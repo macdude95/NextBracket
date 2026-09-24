@@ -5,12 +5,25 @@ DESCRIPTION:Super Smash Bros. Ultimate tournaments in the San Luis Obispo
  area
 NAME:SLO Ultimate Tournaments
 BEGIN:VEVENT
+SUMMARY:UPS 14: Junk Mail - $200 Pot Bonus! (Project+\, Rivals of Aether I
+ I\, Super Smash Bros. Melee\, Super Smash Bros. Ultimate)
+DTSTART:20261010T183000Z
+DTEND:20261011T050000Z
+UID:tournament-955254@nextbracket
+DESCRIPTION:Attendees: 12\nEvents: Ultimate Doubles\, Project+\, Ultimate 
+ Singles\, Melee Singles\, Rivals II Singles\nView on start.gg: https://sta
+ rt.gg/tournament/ups-14-junk-mail-200-pot-bonus
+LOCATION:Julian A. McPhee University Union\, San Luis Obispo\, CA 93407\, 
+ USA\, San Luis Obispo\, 1\, US
+URL:https://start.gg/tournament/ups-14-junk-mail-200-pot-bonus
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:LRA Start #34 @ BA Start Arcade and Taproom (Super Smash Bros. Mel
  ee\, Super Smash Bros. Ultimate)
 DTSTART:20260926T213000Z
 DTEND:20260927T020000Z
 UID:tournament-954472@nextbracket
-DESCRIPTION:Attendees: 13\nEvents: Melee Singles\, Ultimate Singles\nView 
+DESCRIPTION:Attendees: 15\nEvents: Melee Singles\, Ultimate Singles\nView 
  on start.gg: https://start.gg/tournament/lra-start-34-ba-start-arcade-and-
  taproom
 LOCATION:647 Higuera St\, San Luis Obispo\, CA 93401\, USA\, San Luis Obis
