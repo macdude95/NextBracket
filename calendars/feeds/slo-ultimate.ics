@@ -10,12 +10,24 @@ SUMMARY:UPS 14: Junk Mail - $200 Pot Bonus! (Project+\, Rivals of Aether I
 DTSTART:20261010T183000Z
 DTEND:20261011T050000Z
 UID:tournament-955254@nextbracket
-DESCRIPTION:Attendees: 18\nEvents: Ultimate Doubles\, Project+\, Ultimate 
+DESCRIPTION:Attendees: 25\nEvents: Ultimate Doubles\, Project+\, Ultimate 
  Singles\, Melee Singles\, Rivals II Singles\nView on start.gg: https://sta
  rt.gg/tournament/ups-14-junk-mail-200-pot-bonus
 LOCATION:Julian A. McPhee University Union\, San Luis Obispo\, CA 93407\, 
  USA\, San Luis Obispo\, 1\, US
 URL:https://start.gg/tournament/ups-14-junk-mail-200-pot-bonus
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SloBroke REBORN! #105 (Super Smash Bros. Melee\, Super Smash Bros.
+  Ultimate)
+DTSTART:20261009T010000Z
+DTEND:20261009T050000Z
+UID:tournament-958721@nextbracket
+DESCRIPTION:Attendees: 1\nEvents: Ultimate Singles\, Melee Singles\nView o
+ n start.gg: https://start.gg/tournament/slobroke-reborn-105
+LOCATION:Engineering IV\, San Luis Obispo\, CA 93407\, USA\, San Luis Obis
+ po\, 1\, US
+URL:https://start.gg/tournament/slobroke-reborn-105
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LRA Start #34 @ BA Start Arcade and Taproom (Super Smash Bros. Mel
