@@ -11,13 +11,38 @@ SUMMARY:Stable Connection 2 ($700+ Pot Bonus) (Guilty Gear: Strive\, Rival
 DTSTART:20270403T190000Z
 DTEND:20270404T060000Z
 UID:tournament-957280@nextbracket
-DESCRIPTION:Attendees: 25\nEvents: Melee Singles\, Ultimate Singles\, Riva
+DESCRIPTION:Attendees: 27\nEvents: Melee Singles\, Ultimate Singles\, Riva
  ls of Aether Singles\, Guilty Gear: Strive\, Rivals II Singles\, Street Fi
  ghter 6\nView on start.gg: https://start.gg/tournament/stable-connection-2
  -700-pot-bonus
 LOCATION:Julian A. McPhee University Union\, San Luis Obispo\, CA 93407\, 
  USA\, San Luis Obispo\, 1\, US
 URL:https://start.gg/tournament/stable-connection-2-700-pot-bonus
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SloBroke REBORN! #108 (Super Smash Bros. Melee\, Super Smash Bros.
+  Ultimate)
+DTSTART:20261030T010000Z
+DTEND:20261030T050000Z
+UID:tournament-965449@nextbracket
+DESCRIPTION:Events: Ultimate Singles\, Melee Singles\nView on start.gg: ht
+ tps://start.gg/tournament/slobroke-reborn-108
+LOCATION:Engineering IV\, San Luis Obispo\, CA 93407\, USA\, San Luis Obis
+ po\, 1\, US
+URL:https://start.gg/tournament/slobroke-reborn-108
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SLOaded #10: Wide SLOad (Super Smash Bros. Melee\, Super Smash Bro
+ s. Ultimate)
+DTSTART:20261024T190000Z
+DTEND:20261025T050000Z
+UID:tournament-965445@nextbracket
+DESCRIPTION:Attendees: 7\nEvents: Ult Side Bracket\, Melee Doubles\, Ultim
+ ate Singles\, Melee Singles\nView on start.gg: https://start.gg/tournament
+ /sloaded-10-wide-sload
+LOCATION:Engineering IV\, San Luis Obispo\, CA 93407\, USA\, San Luis Obis
+ po\, 1\, US
+URL:https://start.gg/tournament/sloaded-10-wide-sload
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SloBroke REBORN! #107 (Super Smash Bros. Melee\, Super Smash Bros.
