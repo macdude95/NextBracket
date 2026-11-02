@@ -85,8 +85,9 @@ This will generate calendar feeds in `calendars/feeds/` for all configured calen
 
 The repository includes automated daily updates via GitHub Actions:
 
-- **Schedule**: Daily at 6 AM PST
+- **Schedule**: Daily at 13:00 UTC (5 AM PST / 6 AM PDT)
 - **Trigger**: Also supports manual runs
+- **Runtime**: Python 3.12 on pinned Ubuntu 24.04; checkout v5 and setup-python v6 use Node.js 24. The runner is pinned to avoid unexpected `ubuntu-latest` OS migrations (Python 3.9 was unavailable after the Ubuntu 26.04 migration).
 - **Process**: Fetches tournaments → generates calendar → commits updates
 
 ## API Integration

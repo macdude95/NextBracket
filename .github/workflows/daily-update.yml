@@ -2,27 +2,28 @@ name: Daily Tournament Calendar Update
 
 on:
   schedule:
-    # Run daily at 6 AM PST (1 PM UTC)
+    # Run daily at 13:00 UTC (5 AM PST / 6 AM PDT)
     - cron: '0 13 * * *'
   workflow_dispatch: # Allow manual runs
 
 jobs:
   update-calendar:
-    runs-on: ubuntu-latest
+    # Pin the OS so ubuntu-latest migrations cannot break Python setup.
+    runs-on: ubuntu-24.04
     permissions:
       contents: write
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           # Fetch full history for proper git operations
           fetch-depth: 0
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v6
         with:
-          python-version: '3.9'
+          python-version: '3.12'
 
       - name: Install dependencies
         run: |
