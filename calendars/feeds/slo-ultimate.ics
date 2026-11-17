@@ -11,13 +11,26 @@ SUMMARY:Stable Connection 2 ($1000+ Pot Bonus) (Guilty Gear: Strive\, Riva
 DTSTART:20270403T190000Z
 DTEND:20270404T060000Z
 UID:tournament-957280@nextbracket
-DESCRIPTION:Attendees: 107\nEvents: Melee Singles\, Ultimate Singles\, Riv
+DESCRIPTION:Attendees: 108\nEvents: Melee Singles\, Ultimate Singles\, Riv
  als of Aether Singles\, Guilty Gear: Strive\, Rivals II Singles\, Street F
  ighter 6\nView on start.gg: https://start.gg/tournament/stable-connection-
  2-1000-pot-bonus
 LOCATION:Julian A. McPhee University Union\, San Luis Obispo\, CA 93407\, 
  USA\, San Luis Obispo\, 1\, US
 URL:https://start.gg/tournament/stable-connection-2-1000-pot-bonus
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SloBroke REBORN! #111 (Rivals of Aether\, Super Smash Bros. Melee
+ \, Super Smash Bros. Ultimate)
+DTSTART:20261121T210000Z
+DTEND:20261122T050000Z
+UID:tournament-975848@nextbracket
+DESCRIPTION:Attendees: 2\nEvents: Ultimate Side Event\, Rivals of Aether\,
+  Ultimate Singles\, Melee Singles\nView on start.gg: https://start.gg/tour
+ nament/slobroke-reborn-111
+LOCATION:Engineering IV\, San Luis Obispo\, CA 93407\, USA\, San Luis Obis
+ po\, 1\, US
+URL:https://start.gg/tournament/slobroke-reborn-111
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SloBroke REBORN! #110 (Super Smash Bros. Melee\, Super Smash Bros.
